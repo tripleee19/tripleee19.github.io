@@ -38,4 +38,5 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ## Project 1: Exploratory Data Analysis of Russian Crime Data
 ![Image of Crime](https://github.com/tripleee19/Images/blob/main/small-crime-photo.jpg)
+
 This project showcases exploratory data analysis skills and observations looking at variables pertaining to [crime rates in Russia.](https://github.com/tripleee19/EDA-of-Russian-Crime-Data)
