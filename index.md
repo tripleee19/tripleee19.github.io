@@ -48,7 +48,7 @@ This project showcases exploratory data analysis skills and observations looking
 
 [Creation of a binary classficiation tool](https://github.com/tripleee19/Autism-Screening-in-Adults) that predicts if an adult is likely to have autism using demographic and survey response information.
 
-## Visual Developed Concerning Airline Safety
+## Visualizations Concerning Airline Safety
 ![Image of a plane](../airplane.jpg)
 
 A collection of presentations geared for different auidences and centered around the topic of [airline safety.](https://github.com/tripleee19/Airline-Safety)
