@@ -1,5 +1,6 @@
 #### Contact Information
 Email: evanedmunds@gmail.com
+
 Github: https://github.com/tripleee19
 
 # Projects
