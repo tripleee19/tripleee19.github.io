@@ -6,6 +6,7 @@ My name is Evan Edmunds and I am looking to start a career in the field of Data 
 * Github: https://github.com/tripleee19
 
 ## Projects
+These are projects that will showcase the skills and concepts that I learned during my graduate program at Bellevue University.
 
 ### Exploratory Data Analysis of Russian Crime Data
 ![Image of Crime](../small-crime-photo.jpg)
