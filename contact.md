@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Contact Info"
-permalink: \about\contact.md
+permalink: contact.html
 ---
 
 ## Contact Info
