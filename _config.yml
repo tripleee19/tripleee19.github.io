@@ -1,11 +1,3 @@
-theme: jekyll-theme-slate
+theme: jekyll-theme-tactile
 title: My Portfolio
 description: "Here's a look at what I can do"
-url: "https://tripleee19.github.io"
-plugins: 
- - jekyll-relative-links
-relative_links:
- enabled: true
- collections: true
-include: 
- - contact.md
