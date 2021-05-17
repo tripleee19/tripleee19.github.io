@@ -20,7 +20,7 @@ It is important to note that the ‘result’ was removed as well. The result va
 
 After this point, the data was separated into training and test sets for both the feature and target variables. I created histograms for the age and questionnaire scores from the training features, which helped to find an outlier whose age was recorded as 383. A heatmap visualization of the correlation between all the feature variables shows the highest correlation between several of the question variables. The A_Score variables are the answers to the questions in the questionnaire, age and gender are self-explanatory, jundice is if the subject was born with jaundice, and autism is whether or not there is a family history for autism.
 
-#### Correlation Image Here
+![Correlation Image](./images/AutismScreeningCorr.jpg)
 
 ## Model Preparation and Evaluation
 The features of my dataset comprise of two types: binary and nominal. Originally, I ran all the binary variables, of which there are 13, through the SelectKBest function in the sklearn library. I specified the test as chi-squared and kept the 10 best variables. However, this not only left it up to me to determine the appropriate k value, but also left out the ‘age’ variable. I decided to use recursive feature elimination with cross validation to determine what variables were the best to keep. Since I have a supervised binary classification problem, I used a logistic regression model and looked at the area under a ROC curve to determine which of the variables to eliminate. This is done by removing one variable at a time until the model score is negatively affected by the removal. After the feature elimination, the variables that remained in the training set were the A_Score variables and no others.
@@ -30,7 +30,7 @@ A standard scaler was created and fit to the features of the training data, and 
 ## Model Results
 The results of the model predicting autism were 0.968, 0.789, and 0.870 for precision, recall, and f1 scores, respectively. The high precision score indicates that when the model predicts that a subject is predicted to have ASD, it is almost right every time. The recall score is lower than the precision score, which is expected given that the model is pessimistic (it will only predict a subject has ASD if it is very sure). The f1 score acts as a balance between both precision and recall, taking both into account for its scoring.
 
-#### AUROC image here
+![AUROC Score](./images/AutismScreeningAUROC.jpg)
 
 The ROC curve above shows how many values are predicted positive correctly against ones that are predicted incorrectly. A perfect curve would go straight up, and then to the right with no deviations. The closer the area of the curve comes to 1, the better the model. The area under the curve was at first 0.89, but by taking all possible thresholds (the value that determines if a predicted value is positive or not) into account, the area under the curve was improved to 0.99. 
 
