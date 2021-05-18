@@ -10,7 +10,7 @@ These are projects that will showcase the skills and concepts that I learned dur
 #### Exploratory Data Analysis of Russian Crime Data
 ![Image of Crime](../small-crime-photo.jpg)
 
-This project showcases exploratory data analysis skills and observations looking at variables pertaining to [crime rates in Russia.](https://github.com/tripleee19/EDA-of-Russian-Crime-Data)
+This project showcases exploratory data analysis skills and observations looking at variables pertaining to [crime rates in Russia.](https://tripleee19.github.io/projects/RussianCrime.html)
 
 #### Screening for Autism in Adults
 ![Image of Doctor](../generic-doctor.jpg)
