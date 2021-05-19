@@ -8,6 +8,8 @@ This project focused around a scenario of a recent airline crash that caused the
 
 ## Project Links
 
-[Internal Presentation](../images/air_pdfs/Airline_Metrics.pdf)
+* <a href="../images/air_pdfs/Airline_Metrics.pdf" target="_blank">Internal Presentation</a>
 
-<a href="../images/air_pdfs/Airline_Metrics.pdf" target="_blank">Internal Presentation</a>
+* <a href="../images/air_pdfs/4.3 Blogpost.pdf" target="_blank">Initial Blogpost</a>
+
+* <a href="../images/air_pdfs/5.3 Infographic.pdf" target="_blank">Public Infographic</a>
