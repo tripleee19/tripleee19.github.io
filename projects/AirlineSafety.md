@@ -1,6 +1,6 @@
 ---
 title: Visuals for Airline Safety
-description: A collection of data visualizations centered around a question: are airlines safe?
+description: Are airlines safe?
 ---
 
 ## Overview
