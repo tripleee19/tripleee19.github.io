@@ -15,3 +15,5 @@ This project focused around a scenario of a recent airline crash that caused the
 * <a href="../materials/air_safety/5.3 Infographic.pdf" target="_blank">Public Infographic</a>
 
 * <a href="../materials/air_safety/6.3 Submission.mp4" target="_blank">Video Presentation</a>
+
+* [Github Repository with Data and Code](https://github.com/tripleee19/Airline-Safety)
