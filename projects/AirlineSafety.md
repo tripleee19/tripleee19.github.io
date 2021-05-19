@@ -13,3 +13,5 @@ This project focused around a scenario of a recent airline crash that caused the
 * <a href="../materials/air_safety/4.3 Blogpost.pdf" target="_blank">Initial Blogpost</a>
 
 * <a href="../materials/air_safety/5.3 Infographic.pdf" target="_blank">Public Infographic</a>
+
+* <a href="../materials/air_safety/6.3 Submission.mp4" target="_blank">Video ?</a>
