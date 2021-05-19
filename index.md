@@ -20,4 +20,4 @@ This project showcases exploratory data analysis skills and observations looking
 #### Visualizations Concerning Airline Safety
 ![Image of a plane](../airplane.jpg)
 
-A collection of presentations geared for different auidences and centered around the topic of [airline safety.](https://github.com/tripleee19/Airline-Safety)
+A collection of presentations geared for different auidences and centered around the topic of [airline safety.](https://tripleee19.github.io/projects/AirlineSafety.html)
