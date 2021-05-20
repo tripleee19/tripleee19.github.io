@@ -8,6 +8,6 @@ This project focused on showcasing various techniques that could be used to perf
 
 * [View the Project Presentation Here](https://tripleee19.github.io/projects/RussianCrimeRates.pdf)
 
-* <a href="../projects/RussianCrimeRates.pdf" target="_blank">Public Infographic</a>
+* <a href="../projects/RussianCrimeRates.pdf" target="_blank">View the Presentation Here</a>
 
 * [View the Project Data Here](https://github.com/tripleee19/tripleee19.github.io/blob/main/data/crime.csv)
