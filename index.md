@@ -12,11 +12,6 @@ These are projects that will showcase the skills and concepts that I learned dur
 
 Development of a [natural language processing model](https://tripleee19.github.io/projects/FakeNews.html) that detects fake news articles by analyzing article title and text.
 
-#### Exploratory Data Analysis of Russian Crime Data
-![Image of Crime](../small-crime-photo.jpg)
-
-This project showcases exploratory data analysis skills and observations looking at variables pertaining to [crime rates in Russia.](https://tripleee19.github.io/projects/RussianCrime.html)
-
 #### Screening for Autism in Adults
 ![Image of Doctor](../generic-doctor.jpg)
 
@@ -26,3 +21,8 @@ This project showcases exploratory data analysis skills and observations looking
 ![Image of a plane](../airplane.jpg)
 
 A collection of presentations geared for different auidences and centered around the topic of [airline safety.](https://tripleee19.github.io/projects/AirlineSafety.html)
+
+#### Exploratory Data Analysis of Russian Crime Data
+![Image of Crime](../small-crime-photo.jpg)
+
+This project showcases exploratory data analysis skills and observations looking at variables pertaining to [crime rates in Russia.](https://tripleee19.github.io/projects/RussianCrime.html)
