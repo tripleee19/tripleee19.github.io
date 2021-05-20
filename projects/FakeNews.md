@@ -31,3 +31,21 @@ Due to the already high values for these models, they were determined to be adeq
   The elevated accuracies achieved by the default models are a cause of some concern upon initial inspection. For the model to achieve a score that high, there are a few explanations. One, the problem this project is trying to solve is trivially simplistic. Two, the dataset collected is only representative of a small subset of online articles that are easy to predict and not of online news. Three, the data stored within the dataset is leaking information to the model somehow that is giving it an unfair advantage at solving the problem, creating a model that is ineffective if deployed.
   
 The dataset was re-examined and there were no apparent flaws within the approach or methodology of the paper. The models were successful in their ability to detect fake news articles based on the presence of terms unique to their target class. The random forest model is the model of choice for this problem, given the highest score that it was able to achieve. For further improvements to the model, it is suggested that more news sites are selected to pull stories from for both the true and fake news articles. This will help the model to detect fake news against a wider variety of writing styles and improve the instances in which it will be successful.  
+
+## References
+Davydova, O. (2018). Text Preprocessing in Python: Steps, Tools, and Examples. Data Monsters.
+
+Gottfried, J., & Shearer, E. (2016). News Use Across Social Medial Platform123s. Pew Research Center.
+
+Jayaswal, V. (2020). Text Vectorization: Term Frequency — Inverse Document Frequency (TFIDF). Towards Data Science.
+
+Lorent, S. (2019). Fake News Detection Using Machine. University of Liege.
+
+MediaBias/FactCheck. (n.d.). Reuters - media bias fact check. Media Bias Fact Check. https://mediabiasfactcheck.com/reuters/.
+
+## Supplementary Image
+![Collection Frequency](../images/Collection_Frequency.jpg)
+Visual showing the dates and counts of when articles used in the dataset were published.
+
+## Data Source
+[Dataset Collected from Kaggle](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset)
