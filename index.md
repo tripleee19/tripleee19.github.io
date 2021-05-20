@@ -12,6 +12,11 @@ These are projects that will showcase the skills and concepts that I learned dur
 
 Development of a [natural language processing model](https://tripleee19.github.io/projects/FakeNews.html) that detects fake news articles by analyzing article title and text.
 
+#### Clustering Credit Card Accounts
+![Credit Card Group](../images/credit_card.jpg)
+
+Segmenting a customer base using data from credit card account information and [k means clustering.](https://tripleee19.github.io/projects/CC_cluster.html)
+
 #### Screening for Autism in Adults
 ![Image of Doctor](../generic-doctor.jpg)
 
