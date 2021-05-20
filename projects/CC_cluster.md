@@ -50,4 +50,4 @@ Valcheva, S. (2018, March 7). Data Driven Decision Making in Business: Process a
 ## Data Source and Project Code
 [Dataset Collected from Kaggle](https://www.kaggle.com/arjunbhasin2013/ccdata)
 
-[Github with Code and Whitepaper Report](https://github.com/tripleee19)
+[Github with Code and Whitepaper Report](https://github.com/tripleee19/Credit_Card_Clustering)
