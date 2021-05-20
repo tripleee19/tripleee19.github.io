@@ -7,6 +7,11 @@ title: Evan Edmunds Portfolio
 ## Projects
 These are projects that will showcase the skills and concepts that I learned during my graduate program at Bellevue University.
 
+#### Detecting Fakes News Articles
+![Newspaper Image](../images/newspaper.jpg)
+
+Development of a [natural language processing model](https://tripleee19.github.io/projects/FakeNews.html) that detects fake news articles by analyzing article title and text.
+
 #### Exploratory Data Analysis of Russian Crime Data
 ![Image of Crime](../small-crime-photo.jpg)
 
