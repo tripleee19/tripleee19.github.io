@@ -47,5 +47,7 @@ MediaBias/FactCheck. (n.d.). Reuters - media bias fact check. Media Bias Fact Ch
 ![Collection Frequency](../images/Collection_Frequency.jpg)
 Visual showing the dates and counts of when articles used in the dataset were published.
 
-## Data Source
+## Data Source and Project Code
 [Dataset Collected from Kaggle](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset)
+
+[Github with Code and Whitepaper Report](https://github.com/tripleee19/FakeNewsDetection)
