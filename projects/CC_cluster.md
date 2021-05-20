@@ -1,6 +1,6 @@
 ---
 title: Segmentation using Clustering Algorithms
-descriptions: Testing different algorithms to find the best fit.
+description: Testing different algorithms to find the best fit.
 ---
 
 ## Background
