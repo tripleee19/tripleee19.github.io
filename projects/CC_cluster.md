@@ -1,3 +1,8 @@
+---
+title: Segmentation using Clustering Algorithms
+descriptions: Multiple clustering algorithms were tested to best group observations in data
+---
+
 ## Background
 Making decisions is a critical aspect of any company; one that shapes its course and often determines the success or failure of the company. Today, the whole management world talks about how to create a successful data-driven decision-making process in businesses to improve their results (Valcheva,2018). Data-driven decisions are decisions that rely on analytics, domain knowledge, people, and problem-solving. The vast quantity of data that exists stores an incalculable amount of information with hidden patterns and insights. In the past two years alone, 90% of the world’s data was created (Bulao, 2021). To be successful in the information era, companies must rely on data-driven decisions to answer questions about their operations and management. Targeting advertisements to customers who are likely to be receptible, enticing new customers efficiently, and testing how a new product will be received are all challenges that can be approached using insights gained from data that already exists within the company’s framework.
 
