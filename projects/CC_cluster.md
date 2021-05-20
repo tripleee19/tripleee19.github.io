@@ -1,6 +1,6 @@
 ---
 title: Segmentation using Clustering Algorithms
-descriptions: Multiple clustering algorithms were tested to best group observations in data
+descriptions: Testing different algorithms to find the best fit.
 ---
 
 ## Background
