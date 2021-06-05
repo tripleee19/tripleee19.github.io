@@ -1,0 +1,501 @@
+ID,Title,Release_Date,Score,Score_Counts,Metascore,Average_Playtime_Hours,Genre,Platforms,Online_Store_Sites,Type
+3498,Grand Theft Auto V,2013-09-17,4.48,3899,97.0,68,"Action, Adventure","PC, PlayStation, Xbox","Epic Games, PlayStation Store, Xbox Store, Xbox 360 Store, Steam",Game
+4200,Portal 2,2011-04-18,4.61,3308,95.0,11,"Shooter, Puzzle","PC, PlayStation, Xbox, Apple Macintosh, Linux","Xbox Store, Xbox 360 Store, PlayStation Store, Steam",Game
+3328,The Witcher 3: Wild Hunt,2015-05-18,4.67,3579,93.0,51,"Action, Adventure, RPG","PC, PlayStation, Xbox, Nintendo","GOG, Xbox Store, Steam, PlayStation Store",Game
+5286,Tomb Raider (2013),2013-03-05,4.06,2313,86.0,11,"Action, Adventure","PC, PlayStation, Xbox, Apple Macintosh","App Store, Google Play, PlayStation Store, Steam, Xbox 360 Store",Game
+5679,The Elder Scrolls V: Skyrim,2011-11-11,4.42,2778,94.0,44,"Action, RPG","PC, PlayStation, Xbox, Nintendo","Xbox 360 Store, Nintendo Store, Steam, PlayStation Store",Game
+12020,Left 4 Dead 2,2009-11-17,4.1,1926,89.0,9,"Action, Shooter","PC, Xbox","Xbox 360 Store, Steam",Game
+802,Borderlands 2,2012-09-18,4.05,2059,89.0,10,"Action, Shooter, RPG","PC, PlayStation, Xbox, Apple Macintosh","PlayStation Store, Xbox Store, App Store, Xbox 360 Store, Steam, Google Play",Game
+4062,BioShock Infinite,2013-03-26,4.39,2527,94.0,12,"Action, Shooter","PC, PlayStation, Xbox, Linux, Nintendo","Nintendo Store, Xbox Store, App Store, Xbox 360 Store, Steam, PlayStation Store",Game
+13536,Portal,2007-10-09,4.52,2787,90.0,4,"Action, Adventure, Puzzle","PC, PlayStation, Xbox, Android, Apple Macintosh, Linux","Google Play, Steam",Game
+3439,Life is Strange,2015-01-29,4.09,2275,83.0,7,Adventure,"PC, PlayStation, Xbox, iOS, Android, Apple Macintosh, Linux","GOG, App Store, Xbox 360 Store, Google Play, Xbox Store, Steam, PlayStation Store",Game
+4291,Counter-Strike: Global Offensive,2012-08-21,3.57,1881,81.0,58,"Action, Shooter","PC, PlayStation, Xbox","Xbox 360 Store, Steam, PlayStation Store",Game
+1030,Limbo,2010-07-21,4.15,2069,88.0,3,"Action, Adventure, Indie, Puzzle, Platformer","PC, PlayStation, Xbox, iOS, Android, Apple Macintosh, Linux, Nintendo","Epic Games, Google Play, Nintendo Store, Xbox 360 Store, GOG, Steam, Xbox Store, PlayStation Store, App Store",Game
+4286,BioShock,2007-08-21,4.39,2131,96.0,3,"Action, Shooter","PC, PlayStation, Xbox, iOS, Apple Macintosh","Xbox Store, App Store, PlayStation Store, Xbox 360 Store, Steam",Game
+13537,Half-Life 2,2004-11-16,4.5,2282,96.0,7,"Action, Shooter","PC, Xbox, Android, Apple Macintosh, Linux","Google Play, Steam",Game
+28,Red Dead Redemption 2,2018-10-26,4.56,2630,96.0,22,"Action, Adventure","PC, PlayStation, Xbox","Steam, Epic Games, PlayStation Store, Xbox Store",Game
+11859,Team Fortress 2,2007-10-10,3.68,1757,92.0,9,"Action, Shooter","PC, Apple Macintosh, Linux",Steam,Game
+2454,DOOM (2016),2016-05-13,4.4,2223,85.0,11,"Action, Shooter","PC, PlayStation, Xbox, Nintendo","Steam, Xbox Store, Nintendo Store, PlayStation Store",Game
+3939,PAYDAY 2,2013-08-13,3.49,1240,79.0,8,"Action, Shooter","PC, Xbox, Linux","Xbox 360 Store, Nintendo Store, Steam, PlayStation Store",Game
+3070,Fallout 4,2015-11-09,3.75,2025,84.0,47,"Action, RPG","PC, PlayStation, Xbox","Steam, Xbox Store, PlayStation Store",Game
+4459,Grand Theft Auto IV,2008-04-29,4.23,1685,95.0,9,"Action, Adventure","PC, PlayStation, Xbox","Xbox Store, PlayStation Store, Xbox 360 Store, Steam",Game
+10213,Dota 2,2013-07-09,3.1,1551,90.0,14,"Action, Massively Multiplayer","PC, Apple Macintosh, Linux",Steam,Game
+58175,God of War,2018-04-20,4.61,2652,94.0,20,"Action, Adventure",PlayStation,PlayStation Store,Game
+23027,The Walking Dead: Season 1,2012-04-23,4.27,1471,92.0,8,"Action, Adventure","PC, PlayStation, Xbox, iOS, Android, Apple Macintosh, Nintendo","App Store, Epic Games, Google Play, PlayStation Store, GOG, Nintendo Store, Xbox Store, Xbox 360 Store, Steam",Game
+3272,Rocket League,2015-07-07,4.02,1678,86.0,17,"Action, Sports, Racing, Indie","PC, PlayStation, Xbox, Apple Macintosh, Linux, Nintendo","Nintendo Store, PlayStation Store, Steam, Xbox Store",Game
+3192,METAL GEAR SOLID V: THE PHANTOM PAIN,2015-09-01,4.17,1663,91.0,29,"Action, Shooter","PC, PlayStation, Xbox","PlayStation Store, Xbox Store, Xbox 360 Store, Steam",Game
+32,Destiny 2,2017-09-06,3.63,1532,82.0,3,"Action, Shooter, Massively Multiplayer","PC, PlayStation, Xbox, Web","Steam, Xbox Store, PlayStation Store",Game
+19103,Half-Life 2: Lost Coast,2005-10-27,3.44,730,,1,Action,"PC, Apple Macintosh, Linux",Steam,Game
+766,Warframe,2013-03-25,3.47,1240,70.0,7,"Action, Shooter, Massively Multiplayer","PC, PlayStation, Xbox, Nintendo","PlayStation Store, Nintendo Store, Xbox Store, Steam",Game
+29028,Metro 2033,2010-03-16,3.9,1255,79.0,3,"Action, Shooter","PC, Xbox","Xbox 360 Store, Steam",Game
+278,Horizon Zero Dawn,2017-02-28,4.36,2221,89.0,0,"Action, Adventure, RPG","PC, PlayStation","Epic Games, Steam, PlayStation Store",Game
+16944,The Witcher 2: Assassins of Kings Enhanced Edition,2012-04-16,4.21,1280,88.0,7,RPG,"PC, Xbox","Xbox Store, GOG, Steam",Game
+7689,Rise of the Tomb Raider,2015-11-10,4.0,1575,86.0,15,"Action, Platformer","PC, PlayStation, Xbox, Apple Macintosh","App Store, Xbox 360 Store, Steam, Xbox Store",Game
+422,Terraria,2011-05-15,3.99,1250,83.0,12,"Action, Indie, Platformer","PC, PlayStation, Xbox, iOS, Android, Apple Macintosh, Linux, Nintendo","Google Play, App Store, Nintendo Store, GOG, Steam, Xbox Store, PlayStation Store",Game
+11973,Middle-earth: Shadow of Mordor,2014-09-30,3.89,1575,85.0,14,"Action, RPG","PC, PlayStation, Xbox, Apple Macintosh, Linux","App Store, Xbox 360 Store, Xbox Store, PlayStation Store, Steam",Game
+19710,Half-Life 2: Episode One,2006-06-01,4.38,1168,87.0,4,"Action, Shooter","PC, Xbox, Android, Apple Macintosh, Linux","Google Play, Steam",Game
+10035,HITMAN,2017-11-16,3.91,1249,83.0,7,"Action, Shooter","PC, PlayStation, Xbox, Apple Macintosh, Linux","Xbox Store, Steam, PlayStation Store",Game
+4332,Spec Ops: The Line,2012-06-26,4.06,1202,76.0,5,"Action, Shooter","PC, PlayStation, Xbox","Xbox Store, GOG, Xbox 360 Store, Steam, PlayStation Store",Game
+19709,Half-Life 2: Episode Two,2007-10-09,4.43,1158,90.0,5,Shooter,"PC, Xbox, Android, Apple Macintosh, Linux","Google Play, Steam",Game
+3287,Batman: Arkham Knight,2015-06-23,4.21,1564,81.0,20,Action,"PC, PlayStation, Xbox","Epic Games, PlayStation Store, Steam, Xbox Store",Game
+4427,BioShock 2,2010-02-09,4.05,1184,88.0,3,"Action, Shooter","PC, PlayStation, Xbox, Apple Macintosh, Nintendo","Xbox Store, App Store, Xbox 360 Store, PlayStation Store, Steam",Game
+2462,Uncharted 4: A Thief’s End,2016-05-10,4.53,2336,93.0,0,"Action, Adventure",PlayStation,PlayStation Store,Game
+4252,Mirror's Edge,2008-11-11,4.08,1367,81.0,3,"Action, Platformer","PC, PlayStation, Xbox","PlayStation Store, Xbox 360 Store, GOG, Steam",Game
+13668,Amnesia: The Dark Descent,2010-09-07,3.62,736,85.0,2,"Action, Adventure, Indie","PC, Apple Macintosh, Linux","Epic Games, GOG, Steam",Game
+3612,Hotline Miami,2012-10-22,4.34,1581,85.0,5,"Action, Shooter, Arcade, Indie","PC, PlayStation, Xbox, Linux, Nintendo","Google Play, Steam, PlayStation Store, GOG",Game
+11936,Half-Life 2: Deathmatch,2004-11-01,3.33,572,,1,Action,"PC, Apple Macintosh, Linux",Steam,Game
+3790,Outlast,2013-09-03,3.64,998,80.0,3,"Action, Adventure, Indie","PC, PlayStation, Xbox, Apple Macintosh, Linux, Nintendo","Steam, GOG, Xbox Store, PlayStation Store",Game
+1447,Deus Ex: Mankind Divided,2016-08-22,3.95,1275,83.0,9,"Action, RPG","PC, PlayStation, Xbox, Apple Macintosh, Linux","GOG, Xbox Store, Steam, PlayStation Store",Game
+17822,The Witcher: Enhanced Edition Director's Cut,2008-09-16,4.07,1130,86.0,5,"Action, RPG","PC, Apple Macintosh","Steam, GOG",Game
+3144,Super Meat Boy,2010-10-20,3.98,1167,87.0,3,"Action, Indie, Platformer","PC, PlayStation, Xbox, Android, Apple Macintosh, Linux, Nintendo, Web","Epic Games, Google Play, Nintendo Store, Xbox 360 Store, Steam, PlayStation Store",Game
+19487,Alan Wake,2010-05-14,4.13,1295,83.0,5,"Action, Shooter, Adventure","PC, Xbox","Xbox Store, Epic Games, Xbox 360 Store, Steam, GOG",Game
+4386,Saints Row: The Third,2011-11-14,3.93,1226,84.0,14,"Action, Adventure","PC, PlayStation, Xbox, Linux","Xbox Store, Xbox 360 Store, Steam, PlayStation Store",Game
+416,Grand Theft Auto: San Andreas,2004-10-26,4.49,1954,93.0,2,"Action, Adventure","PC, PlayStation, Xbox, iOS, Android, Apple Macintosh","Xbox Store, PlayStation Store, Google Play, App Store, Xbox 360 Store, Steam",Game
+13633,Sid Meier's Civilization V,2010-09-21,4.31,1303,90.0,25,Strategy,"PC, Apple Macintosh, Linux","App Store, Steam",Game
+4828,Borderlands,2009-10-20,3.87,1268,81.0,10,"Action, Shooter, RPG","PC, PlayStation, Xbox","Xbox Store, PlayStation Store, Xbox 360 Store, Steam",Game
+4514,L.A. Noire,2011-05-17,4.15,1305,83.0,8,"Action, Adventure","PC, PlayStation, Xbox, Nintendo","Xbox Store, Xbox 360 Store, Nintendo Store, Steam, PlayStation Store",Game
+3636,The Last Of Us Remastered,2014-07-29,4.7,1959,95.0,16,"Action, Adventure",PlayStation,PlayStation Store,Game
+58134,Marvel's Spider-Man,2018-09-07,4.45,2110,87.0,6,"Action, Adventure",PlayStation,PlayStation Store,Game
+10754,BioShock Remastered,2016-09-15,4.26,760,,3,Shooter,"PC, PlayStation, Xbox, Apple Macintosh, Nintendo","PlayStation Store, GOG, App Store, Steam",Game
+3696,Wolfenstein: The New Order,2014-05-19,4.21,1544,81.0,13,"Action, Shooter","PC, PlayStation, Xbox","GOG, Xbox 360 Store, PlayStation Store, Steam, Xbox Store",Game
+4806,Mass Effect 2,2010-01-26,4.48,1871,94.0,22,"Action, RPG","PC, PlayStation, Xbox","Xbox Store, Xbox 360 Store, Steam, PlayStation Store",Game
+4161,Far Cry 3,2012-11-28,4.23,1541,88.0,17,"Action, Shooter","PC, PlayStation, Xbox","Xbox Store, Xbox 360 Store, Steam, PlayStation Store",Game
+2551,Dark Souls III,2016-04-11,4.39,1450,89.0,28,"Action, RPG","PC, PlayStation, Xbox","PlayStation Store, Steam, Xbox Store",Game
+18080,Half-Life,1998-11-19,4.37,1286,96.0,3,"Action, Shooter","PC, PlayStation, Apple Macintosh, Linux",Steam,Game
+5583,Hitman: Absolution,2012-11-19,3.7,961,79.0,7,"Action, Shooter","PC, PlayStation, Xbox, Apple Macintosh","PlayStation Store, GOG, Xbox 360 Store, Steam",Game
+11935,Half-Life Deathmatch: Source,2006-05-01,3.25,456,,1,Action,"PC, Apple Macintosh, Linux",Steam,Game
+4570,Dead Space,2008-10-13,4.36,1324,86.0,2,"Action, Shooter","PC, PlayStation, Xbox","Xbox Store, PlayStation Store, Xbox 360 Store, GOG, Steam",Game
+613,Bastion,2011-07-20,4.21,1122,86.0,4,"Action, RPG, Indie","PC, PlayStation, Xbox, iOS, Apple Macintosh, Nintendo","App Store, Xbox 360 Store, PlayStation Store, Nintendo Store, GOG, Steam, Xbox Store",Game
+17540,Injustice: Gods Among Us Ultimate Edition,2013-11-12,3.61,800,80.0,5,"Action, Arcade, Fighting","PC, PlayStation, Xbox","PlayStation Store, Steam",Game
+13910,XCOM: Enemy Unknown,2012-10-09,4.2,1091,89.0,14,Strategy,"PC, PlayStation, Xbox, iOS, Android, Apple Macintosh","PlayStation Store, Google Play, Xbox 360 Store, Steam",Game
+362,For Honor,2017-02-13,3.32,1080,76.0,7,"Action, Massively Multiplayer","PC, PlayStation, Xbox","Epic Games, PlayStation Store, Steam, Xbox Store",Game
+3387,Bloodborne,2015-03-24,4.38,1637,92.0,12,"Action, RPG",PlayStation,PlayStation Store,Game
+9721,Garry's Mod,2004-12-24,3.74,861,,12,Indie,"PC, Apple Macintosh, Linux",Steam,Game
+4166,Mass Effect,2007-11-16,4.38,1621,89.0,8,"Action, RPG","PC, PlayStation, Xbox","Xbox Store, Xbox 360 Store, Steam, PlayStation Store",Game
+10533,Path of Exile,2013-10-23,3.65,919,86.0,5,"Action, RPG, Massively Multiplayer, Indie","PC, PlayStation, Xbox","PlayStation Store, Xbox Store, Steam",Game
+3747,METAL GEAR SOLID V: GROUND ZEROES,2014-03-18,3.89,1165,80.0,4,"Action, Shooter","PC, PlayStation, Xbox","App Store, PlayStation Store, Xbox 360 Store, Steam, Xbox Store",Game
+3841,Assassin’s Creed IV: Black Flag,2013-10-29,4.05,1401,85.0,26,Action,"PC, PlayStation, Xbox, Nintendo","Nintendo Store, Xbox 360 Store, Xbox Store, Steam, PlayStation Store",Game
+3543,Borderlands: The Pre-Sequel,2014-10-13,3.58,861,75.0,7,"Action, Shooter, RPG","PC, PlayStation, Xbox, Android, Apple Macintosh, Linux","App Store, Google Play, PlayStation Store, Xbox 360 Store, Steam",Game
+5525,Brutal Legend,2009-10-12,3.68,744,80.0,5,"Action, Strategy","PC, PlayStation, Xbox, iOS, Apple Macintosh, Linux","Xbox Store, App Store, itch.io, Xbox 360 Store, Steam, GOG, PlayStation Store",Game
+11934,Counter-Strike: Source,2004-11-01,3.7,844,88.0,7,Shooter,"PC, Apple Macintosh, Linux",Steam,Game
+4248,Dishonored,2012-09-25,4.35,1476,91.0,10,"Action, Shooter, Adventure, RPG","PC, PlayStation, Xbox","Xbox 360 Store, Steam, PlayStation Store",Game
+39,Prey (2017),2017-05-03,4.28,1283,80.0,10,"Action, Shooter, RPG","PC, PlayStation, Xbox","GOG, Xbox Store, Steam, PlayStation Store",Game
+430,Grand Theft Auto: Vice City,2002-10-27,4.43,1643,94.0,2,"Action, Adventure","PC, PlayStation, Xbox, iOS, Android, Apple Macintosh","PlayStation Store, App Store, Google Play, Steam",Game
+3017,Just Cause 3,2015-11-30,3.32,973,74.0,7,"Action, Shooter","PC, PlayStation, Xbox","Steam, Xbox Store, PlayStation Store",Game
+4513,Just Cause 2,2010-03-23,3.61,820,84.0,3,"Action, Shooter","PC, PlayStation, Xbox","Xbox Store, PlayStation Store, Xbox 360 Store, Steam",Game
+3191,Mad Max,2015-09-01,3.72,1104,73.0,11,Action,"PC, PlayStation, Xbox, Apple Macintosh, Linux","App Store, Xbox 360 Store, Steam, Xbox Store, PlayStation Store",Game
+5563,Fallout: New Vegas,2010-10-19,4.39,1406,84.0,12,"Action, Shooter, Adventure, RPG","PC, PlayStation, Xbox","Xbox Store, Xbox 360 Store, PlayStation Store, Steam",Game
+3254,Journey,2012-03-13,4.35,1583,92.0,2,"Adventure, Family, Indie","PC, PlayStation, iOS","Steam, App Store, Epic Games, PlayStation Store",Game
+10243,Company of Heroes 2,2013-06-25,3.15,529,80.0,4,"Strategy, Simulation","PC, Apple Macintosh, Linux","App Store, Steam",Game
+4223,The Darkness II,2012-02-07,3.69,676,77.0,4,Action,"PC, PlayStation, Xbox, Apple Macintosh","Xbox Store, Xbox 360 Store, Steam, PlayStation Store",Game
+18240,Brothers - A Tale of Two Sons,2013-08-07,4.17,1063,90.0,3,"Adventure, Indie, Puzzle","PC, PlayStation, Xbox, iOS, Android, Nintendo","PlayStation Store, Nintendo Store, Google Play, App Store, Xbox Store, Xbox 360 Store, GOG, Steam",Game
+12536,Hellblade: Senua's Sacrifice,2017-08-07,4.31,1238,83.0,7,"Action, Adventure, Indie","PC, PlayStation, Xbox, Nintendo","PlayStation Store, Steam, Nintendo Store, Xbox Store, GOG",Game
+1010,Transistor,2014-05-20,4.18,1034,83.0,4,"Action, RPG, Indie","PC, PlayStation, iOS, Apple Macintosh, Linux, Nintendo","Epic Games, GOG, Nintendo Store, Steam, PlayStation Store, App Store",Game
+9882,Don't Starve Together,2016-04-21,3.8,742,83.0,6,"Action, Simulation, Indie","PC, PlayStation, Xbox, Apple Macintosh, Linux",Steam,Game
+108,MORTAL KOMBAT X,2015-04-07,3.86,1283,76.0,7,"Action, Fighting","PC, PlayStation, Xbox, iOS, Android","App Store, Google Play, Steam, Xbox Store, PlayStation Store",Game
+4502,Darksiders,2010-01-27,3.75,767,83.0,3,Action,"PC, PlayStation, Xbox","Xbox Store, Xbox 360 Store, Steam, PlayStation Store",Game
+19301,Counter-Strike,2000-11-01,4.05,821,88.0,3,"Action, Shooter","PC, Xbox, Apple Macintosh, Linux",Steam,Game
+13554,Fallout: A Post Nuclear Role Playing Game,1997-09-30,4.24,740,89.0,1,RPG,"PC, Apple Macintosh","GOG, Steam",Game
+29177,Detroit: Become Human,2018-05-25,4.26,1606,79.0,7,"Action, Adventure","PC, PlayStation","Steam, Epic Games, PlayStation Store",Game
+13535,Left 4 Dead,2008-11-17,4.11,954,89.0,6,"Action, Shooter","PC, Xbox, Apple Macintosh","Xbox 360 Store, Steam",Game
+4280,Max Payne 3,2012-05-15,4.24,1147,87.0,11,"Action, Shooter","PC, PlayStation, Xbox, Apple Macintosh","Xbox 360 Store, Steam, PlayStation Store",Game
+2361,Psychonauts,2005-04-01,4.01,543,87.0,4,"Action, Platformer","PC, PlayStation, Xbox, iOS, Apple Macintosh, Linux","Xbox Store, PlayStation Store, Xbox 360 Store, App Store, Steam, GOG",Game
+9767,Hollow Knight,2017-02-23,4.4,1261,88.0,6,"Action, Indie, Platformer","PC, PlayStation, Xbox, Apple Macintosh, Linux, Nintendo","PlayStation Store, Xbox Store, Nintendo Store, GOG, Steam",Game
+4003,GRID 2,2013-05-27,3.32,514,80.0,3,"Sports, Racing","PC, PlayStation, Xbox, Apple Macintosh","Xbox 360 Store, Steam, PlayStation Store",Game
+5703,Uncharted 3: Drake's Deception,2011-11-01,4.37,1301,92.0,12,"Action, Adventure",PlayStation,PlayStation Store,Game
+1416,Mafia II,2010-08-24,4.13,1190,77.0,13,"Action, Adventure","PC, PlayStation, Xbox","Xbox Store, PlayStation Store, Xbox 360 Store, Steam",Game
+2792,Layers of Fear,2016-02-16,3.49,689,72.0,3,"Adventure, Indie","PC, PlayStation, Xbox, iOS, Apple Macintosh, Linux","Epic Games, PlayStation Store, App Store, Xbox Store, GOG, Steam",Game
+17576,Batman: Arkham City - Game of the Year Edition,2012-09-07,4.39,911,91.0,9,"Action, Adventure","PC, PlayStation, Xbox, Apple Macintosh","Epic Games, App Store, Steam",Game
+654,Stardew Valley,2016-02-25,4.38,1188,89.0,10,"RPG, Simulation, Indie","PC, PlayStation, Xbox, iOS, Android, Apple Macintosh, Linux, Nintendo","PlayStation Store, Google Play, Nintendo Store, GOG, Steam, Xbox Store, App Store",Game
+2743,Heavy Rain,2010-02-23,4.07,1481,80.0,9,"Action, Adventure","PC, PlayStation","Steam, PlayStation Store, Epic Games",Game
+11142,BioShock 2 Remastered,2016-09-15,4.02,548,,4,"Action, RPG","PC, PlayStation, Xbox, Apple Macintosh","PlayStation Store, GOG, Steam",Game
+4544,Red Dead Redemption,2010-05-18,4.4,1431,95.0,7,"Action, Shooter","PlayStation, Xbox","Xbox Store, Xbox 360 Store, PlayStation Store",Game
+3853,Trine 2: Complete Story,2013-06-05,3.74,617,84.0,4,"Action, Indie, Puzzle, Platformer","PC, PlayStation, Apple Macintosh, Linux, Nintendo","Nintendo Store, GOG, Steam, PlayStation Store",Game
+3740,FEZ,2012-04-13,4.0,839,91.0,2,"Action, Adventure, Indie, Puzzle, Platformer","PC, PlayStation, Xbox, iOS, Apple Macintosh, Linux","Epic Games, PlayStation Store, itch.io, App Store, Xbox 360 Store, Steam, GOG",Game
+17572,Batman: Arkham Asylum Game of the Year Edition,2010-03-26,4.39,1036,91.0,8,"Action, Adventure, Platformer","PC, PlayStation, Xbox","Epic Games, Xbox 360 Store, Steam",Game
+3687,Watch Dogs,2014-05-27,3.51,1228,77.0,19,Action,"PC, PlayStation, Xbox, Nintendo","Epic Games, Xbox Store, Xbox 360 Store, Nintendo Store, Steam, PlayStation Store",Game
+12447,The Elder Scrolls V: Skyrim Special Edition,2016-10-27,4.44,1115,74.0,5,"Action, RPG","PC, PlayStation, Xbox","Xbox Store, PlayStation Store, Steam",Game
+3931,Saints Row IV,2013-08-20,3.81,954,86.0,13,"Action, Adventure","PC, PlayStation, Xbox, Linux","Xbox 360 Store, Steam, PlayStation Store",Game
+28568,Assassin's Creed II,2009-11-17,4.36,1574,89.0,14,Action,"PC, PlayStation, Xbox, Apple Macintosh","Xbox Store, Steam, Xbox 360 Store",Game
+10142,PlayerUnknown’s Battlegrounds,2017-12-20,3.37,1078,81.0,50,"Action, Shooter, Massively Multiplayer","PC, PlayStation, Xbox","PlayStation Store, Xbox Store, Steam",Game
+11435,Viscera Cleanup Detail: Shadow Warrior,2013-09-26,2.55,396,,2,"Action, Simulation, Indie","PC, Apple Macintosh","App Store, Steam",Game
+864,Dishonored 2,2016-11-10,4.26,1101,86.0,13,"Action, RPG","PC, PlayStation, Xbox","GOG, Steam, Xbox Store, PlayStation Store",Game
+15002,The Stanley Parable,2013-10-17,4.37,1269,88.0,3,"Adventure, Indie","PC, Apple Macintosh, Linux","Epic Games, Steam",Game
+10065,Cities: Skylines,2015-03-10,4.15,865,85.0,8,"Strategy, Simulation","PC, PlayStation, Xbox, Apple Macintosh, Linux, Nintendo","Nintendo Store, Xbox Store, PlayStation Store, Steam",Game
+2819,Firewatch,2016-02-08,4.3,1476,81.0,5,"Adventure, Simulation, Indie","PC, PlayStation, Xbox, Apple Macintosh, Linux, Nintendo","Nintendo Store, GOG, Steam, Xbox Store, PlayStation Store",Game
+12024,Insurgency,2014-01-22,3.42,649,74.0,4,"Action, Shooter, Indie","PC, Apple Macintosh, Linux",Steam,Game
+1682,The Wolf Among Us,2013-10-10,4.33,1308,85.0,9,Adventure,"PC, PlayStation, Xbox, iOS, Android, Apple Macintosh","App Store, Xbox Store, Google Play, Xbox 360 Store, GOG, Steam, PlayStation Store",Game
+4599,Saints Row 2,2008-10-14,3.53,549,78.0,2,"Action, Shooter","PC, PlayStation, Xbox, Linux","Xbox Store, Xbox 360 Store, GOG, Steam, PlayStation Store",Game
+10340,Crusader Kings II,2012-02-14,3.6,459,82.0,3,"Strategy, Simulation","PC, Apple Macintosh, Linux",Steam,Game
+2235,Batman: Arkham Origins,2013-10-16,3.9,948,74.0,12,"Action, Adventure","PC, PlayStation, Xbox","App Store, Google Play, Xbox 360 Store, Nintendo Store, PlayStation Store, Steam",Game
+3603,Metro 2033 Redux,2014-08-25,4.06,912,,5,"Action, Shooter","PC, PlayStation, Xbox, Apple Macintosh, Linux, Nintendo","Nintendo Store, Epic Games, App Store, GOG, Steam, Xbox Store, PlayStation Store",Game
+3556,Alien: Isolation,2014-10-06,4.2,812,81.0,4,Action,"PC, PlayStation, Xbox, Nintendo","Xbox Store, Xbox 360 Store, PlayStation Store, Steam",Game
+28492,Dead Island,2011-09-06,3.44,838,74.0,7,"Action, Shooter, RPG","PC, PlayStation, Xbox",Xbox 360 Store,Game
+1450,INSIDE,2016-06-28,4.39,1477,87.0,4,"Action, Adventure, Indie, Puzzle, Platformer","PC, PlayStation, Xbox, iOS, Nintendo","Epic Games, App Store, Nintendo Store, GOG, Steam, Xbox Store, PlayStation Store",Game
+10989,Paladins,2016-09-15,3.09,821,78.0,5,"Action, Shooter","PC, PlayStation, Xbox, Apple Macintosh, Nintendo","PlayStation Store, Nintendo Store, Xbox Store, Steam",Game
+13305,Assassin’s Creed III,2012-10-30,3.68,1237,80.0,23,Action,"PC, PlayStation, Xbox, Nintendo","Xbox 360 Store, Xbox Store, Nintendo Store, PlayStation Store, Steam",Game
+3932,The Bureau: XCOM Declassified,2013-08-20,3.02,457,66.0,3,"Action, Shooter","PC, PlayStation, Xbox, Apple Macintosh","GOG, PlayStation Store, Steam",Game
+17352,Killing Floor,2009-05-14,3.4,540,72.0,5,Action,"PC, Apple Macintosh, Linux",Steam,Game
+4527,Call of Duty: Modern Warfare 2,2009-11-10,4.25,1183,86.0,27,"Action, Shooter","PC, PlayStation, Xbox, Apple Macintosh","Xbox Store, Xbox 360 Store, Steam, PlayStation Store",Game
+10141,NieR:Automata,2017-03-17,4.35,1195,86.0,14,"Action, RPG","PC, PlayStation, Xbox","Xbox Store, Steam",Game
+3876,Deus Ex: Human Revolution - Director's Cut,2013-10-22,4.3,860,91.0,6,"Action, RPG","PC, PlayStation, Xbox, Apple Macintosh, Nintendo","App Store, PlayStation Store, Nintendo Store, Steam",Game
+18272,Magicka,2011-01-25,3.84,720,74.0,5,"Action, RPG","PC, Android","Google Play, Steam",Game
+10548,Darksiders Warmastered Edition,2016-11-29,3.67,568,79.0,5,"Action, RPG","PC, PlayStation, Xbox, Nintendo","Epic Games, Nintendo Store, Xbox Store, PlayStation Store, Steam",Game
+3015,Chivalry: Medieval Warfare,2012-10-16,3.39,548,79.0,4,"Action, Indie","PC, PlayStation, Xbox, Apple Macintosh, Linux","Xbox 360 Store, Steam, Xbox Store",Game
+13268,Amnesia: A Machine for Pigs,2013-09-09,3.18,417,72.0,2,"Action, Adventure, Indie","PC, Apple Macintosh, Linux","GOG, Steam",Game
+46889,Monster Hunter: World,2018-01-26,4.09,983,89.0,16,"Action, RPG","PC, PlayStation, Xbox","Steam, Xbox Store, PlayStation Store",Game
+952,Shadowrun Returns,2013-07-24,3.58,465,76.0,4,"RPG, Strategy, Indie","PC, iOS, Android, Apple Macintosh, Linux","App Store, Google Play, GOG, Steam",Game
+13461,Resident Evil 5,2009-03-03,3.82,960,86.0,10,"Action, Shooter","PC, PlayStation, Xbox, Nintendo","Nintendo Store, PlayStation Store, Xbox Store, Xbox 360 Store, Steam",Game
+50738,Death Stranding,2019-11-08,4.35,764,84.0,6,"Action, Adventure","PC, PlayStation","Steam, Epic Games, PlayStation Store",Game
+10560,Total War: SHOGUN 2,2011-03-14,3.86,278,90.0,5,Strategy,"PC, Apple Macintosh, Linux",Steam,Game
+3990,The Last Of Us,2013-06-14,4.59,1836,95.0,15,"Action, Adventure",PlayStation,PlayStation Store,Game
+3604,Metro: Last Light Redux,2014-08-25,4.14,783,76.0,6,"Action, Shooter","PC, PlayStation, Xbox, Apple Macintosh, Linux, Nintendo","Nintendo Store, App Store, Xbox Store, GOG, Steam, PlayStation Store",Game
+28179,SEGA Mega Drive and Genesis Classics,2010-06-01,3.09,332,,3,"Action, RPG","PC, PlayStation","PlayStation Store, Steam",Game
+3771,Rayman Legends,2013-08-29,4.16,1052,89.0,5,Platformer,"PC, PlayStation, Xbox, Nintendo","Epic Games, Xbox Store, Xbox 360 Store, Nintendo Store, Steam, PlayStation Store",Game
+18613,Counter-Strike: Condition Zero,2004-03-01,3.14,455,65.0,1,Action,"PC, Apple Macintosh, Linux",Steam,Game
+906,Call of Duty: Black Ops III,2015-11-06,3.23,948,73.0,14,"Action, Shooter, Massively Multiplayer","PC, PlayStation, Xbox","Xbox 360 Store, Xbox Store, Steam, PlayStation Store",Game
+13627,Undertale,2015-09-14,4.34,962,92.0,5,"RPG, Indie","PC, PlayStation, Apple Macintosh, Linux, Nintendo","PlayStation Store, GOG, Steam, Nintendo Store",Game
+3474,Lara Croft and the Temple of Osiris,2014-12-08,3.22,383,73.0,3,"Action, Adventure, Puzzle","PC, PlayStation, Xbox","PlayStation Store, Steam, Xbox Store",Game
+4639,Dragon Age: Origins,2009-11-03,4.38,1140,91.0,9,RPG,"PC, PlayStation, Xbox, Apple Macintosh","Xbox Store, Xbox 360 Store, Steam, PlayStation Store",Game
+2572,DiRT Rally,2015-12-07,3.76,411,86.0,4,"Simulation, Sports, Racing","PC, PlayStation, Xbox, Apple Macintosh, Linux","App Store, Steam, Xbox Store, PlayStation Store",Game
+865,Call of Duty: Black Ops,2010-11-09,4.01,1091,81.0,9,"Action, Shooter","PC, PlayStation, Xbox, iOS, Apple Macintosh, Nintendo","Xbox 360 Store, Nintendo Store, Steam, Xbox Store, App Store",Game
+19384,The Binding of Isaac,2011-09-28,3.93,731,84.0,5,"Action, RPG, Indie","PC, Apple Macintosh",Steam,Game
+19365,Homefront,2011-03-14,2.9,496,70.0,2,"Action, Shooter","PC, PlayStation, Xbox","PlayStation Store, Xbox 360 Store, Steam",Game
+23585,Far Cry 5,2018-03-27,3.7,1085,80.0,18,"Action, Shooter","PC, PlayStation, Xbox","Xbox Store, PlayStation Store, Steam",Game
+9743,Unturned,2014-07-07,2.7,529,,3,"Action, Shooter","PC, Apple Macintosh, Linux",Steam,Game
+3168,SOMA,2015-09-21,4.14,827,84.0,6,"Action, Adventure, Indie","PC, PlayStation, Xbox, Apple Macintosh, Linux","Epic Games, Xbox Store, GOG, Steam, PlayStation Store",Game
+923,Titanfall 2,2016-10-28,4.31,1125,87.0,3,"Action, Shooter","PC, PlayStation, Xbox","Xbox Store, PlayStation Store",Game
+3757,South Park: The Stick of Truth,2014-03-04,4.21,976,84.0,12,"Adventure, RPG","PC, PlayStation, Xbox, Nintendo","Nintendo Store, Xbox 360 Store, Xbox Store, Steam, PlayStation Store",Game
+432,Grand Theft Auto III,2001-10-22,4.18,880,93.0,1,"Action, Adventure","PC, PlayStation, Xbox, iOS, Android, Apple Macintosh","PlayStation Store, App Store, Google Play, Steam",Game
+28153,Assassin's Creed Origins,2017-10-27,4.01,1161,81.0,34,"Action, RPG","PC, PlayStation, Xbox","Xbox Store, PlayStation Store, Steam",Game
+17875,Guacamelee! Super Turbo Championship Edition,2014-07-01,3.6,558,80.0,3,"Action, Indie, Platformer","PC, PlayStation, Xbox, Nintendo","Xbox Store, PlayStation Store, Nintendo Store, GOG, Xbox 360 Store, Steam",Game
+4440,Deus Ex: Human Revolution,2011-08-22,4.33,1003,89.0,17,"Action, RPG","PC, PlayStation, Xbox, Apple Macintosh","Xbox Store, Xbox 360 Store, PlayStation Store",Game
+3766,Thief,2014-02-25,3.19,752,70.0,5,"Action, Adventure","PC, PlayStation, Xbox, Apple Macintosh","Xbox 360 Store, PlayStation Store, Steam, Xbox Store",Game
+18241,DmC: Devil May Cry,2013-01-15,4.0,951,85.0,6,Action,"PC, PlayStation, Xbox","PlayStation Store, Steam",Game
+1774,Grim Fandango Remastered,2015-01-26,3.99,619,84.0,5,"Adventure, Puzzle","PC, PlayStation, iOS, Android, Apple Macintosh, Linux, Nintendo","App Store, Google Play, itch.io, GOG, Steam, Nintendo Store, PlayStation Store",Game
+28623,Batman: Arkham City,2011-10-18,4.41,1247,94.0,21,"Action, Adventure, Platformer","PC, PlayStation, Xbox, Apple Macintosh, Nintendo","PlayStation Store, Xbox 360 Store",Game
+3892,Sniper Elite V2,2012-05-01,3.38,536,66.0,4,"Action, Shooter","PC, PlayStation, Xbox, Nintendo","Xbox 360 Store, Nintendo Store, Steam, PlayStation Store",Game
+624,FTL: Faster Than Light,2012-09-14,4.29,620,84.0,6,"Strategy, Simulation, Indie","PC, iOS, Apple Macintosh, Linux","Epic Games, App Store, GOG, Steam",Game
+4954,Castle Crashers,2008-08-27,3.9,746,84.0,4,"Action, Indie","PC, PlayStation, Xbox, Apple Macintosh","PlayStation Store, Xbox 360 Store, Steam",Game
+1256,XCOM 2,2016-02-04,4.1,815,88.0,20,"RPG, Strategy","PC, PlayStation, Apple Macintosh, Linux","GOG, Xbox Store, App Store, Steam, PlayStation Store",Game
+9475,Don't Starve,2013-04-22,3.9,677,79.0,4,Indie,"PC, PlayStation, Xbox, Apple Macintosh, Nintendo","Steam, GOG",Game
+3497,Far Cry 4,2014-11-18,3.85,1004,80.0,22,Shooter,"PC, PlayStation, Xbox","Xbox 360 Store, Steam, Xbox Store, PlayStation Store",Game
+17126,Torchlight II,2012-09-20,3.89,699,88.0,11,"Action, RPG","PC, PlayStation, Xbox, Apple Macintosh, Linux, Nintendo","Epic Games, Nintendo Store, Xbox Store, PlayStation Store, GOG, Steam",Game
+43877,Quake Champions,2017-08-22,3.27,663,,2,Massively Multiplayer,PC,Steam,Game
+8488,Tom Clancy's Rainbow Six Siege,2015-12-01,4.03,864,75.0,27,"Action, Shooter","PC, PlayStation, Xbox","Epic Games, Steam, PlayStation Store, Xbox Store",Game
+58616,Assassin's Creed Odyssey,2018-10-05,4.06,1061,85.0,31,"Action, RPG","PC, PlayStation, Xbox, Nintendo","Epic Games, Nintendo Store, PlayStation Store, Xbox Store, Steam",Game
+4550,Dead Space 2,2011-01-25,4.32,839,87.0,5,"Action, Shooter","PC, PlayStation, Xbox","Xbox Store, PlayStation Store, Xbox 360 Store, Steam",Game
+5562,Fallout 3,2008-10-28,4.07,1151,91.0,5,"Shooter, RPG","PC, PlayStation, Xbox","Xbox Store, PlayStation Store, Xbox 360 Store, Steam",Game
+3631,inFAMOUS Second Son,2014-03-21,3.9,1102,80.0,0,Action,PlayStation,PlayStation Store,Game
+28202,Wolfenstein 2: The New Colossus,2017-10-27,4.09,1076,86.0,12,"Action, Shooter","PC, PlayStation, Xbox, Nintendo","PlayStation Store, Nintendo Store, Xbox Store, Steam",Game
+21265,Half-Life: Opposing Force,1999-11-01,3.83,421,,3,Action,"PC, Apple Macintosh, Linux",Steam,Game
+15859,STAR WARS - Knights of the Old Republic,2003-07-15,4.35,877,90.0,2,"Action, RPG","PC, Xbox, iOS, Android, Apple Macintosh","Xbox Store, App Store, Google Play, Xbox 360 Store, GOG, Steam",Game
+19542,Half-Life: Blue Shift,2001-06-01,3.72,425,71.0,2,Action,"PC, Apple Macintosh, Linux, SEGA",Steam,Game
+18336,Alan Wake's American Nightmare,2012-02-22,3.41,517,73.0,3,"Action, Shooter","PC, Xbox","Xbox Store, Epic Games, Xbox 360 Store, Steam, GOG",Game
+1358,"Papers, Please",2013-08-08,4.31,967,85.0,4,"Simulation, Indie, Puzzle","PC, PlayStation, iOS, Apple Macintosh, Linux","App Store, PlayStation Store, Steam, GOG",Game
+51329,Shadow of the Tomb Raider,2018-09-14,3.83,803,78.0,10,"Action, Adventure","PC, PlayStation, Xbox, Apple Macintosh, Linux","Steam, Xbox Store, PlayStation Store",Game
+4573,PAYDAY The Heist,2011-10-18,3.3,524,76.0,4,"Action, Shooter","PC, PlayStation","PlayStation Store, Steam",Game
+1169,Mafia III,2016-10-06,3.11,901,62.0,11,"Action, Adventure","PC, PlayStation, Xbox, Apple Macintosh","PlayStation Store, App Store, GOG, Steam, Xbox Store",Game
+998,Battlefield 1,2016-10-21,3.79,1158,88.0,10,"Action, Shooter","PC, PlayStation, Xbox","Steam, Xbox Store, PlayStation Store",Game
+14962,Dark Souls: Prepare To Die Edition,2012-08-23,4.33,854,85.0,14,"Action, RPG",PC,Steam,Game
+28154,Cuphead,2017-09-29,4.36,1076,86.0,5,"Action, Indie, Platformer","PC, PlayStation, Xbox, Nintendo","PlayStation Store, Nintendo Store, Xbox Store, Steam, GOG",Game
+19590,Ori and the Blind Forest,2015-03-10,4.34,836,88.0,7,"Adventure, Platformer","PC, Xbox",Steam,Game
+2733,Broforce,2015-10-15,3.97,838,83.0,6,"Action, Indie, Platformer","PC, PlayStation, Apple Macintosh, Linux, Nintendo","GOG, Steam, PlayStation Store, Nintendo Store",Game
+50734,Sekiro: Shadows Die Twice,2019-03-22,4.37,1038,90.0,17,"Action, RPG","PC, PlayStation, Xbox","PlayStation Store, Steam, Xbox Store",Game
+58654,Hitman 2,2018-11-13,4.04,629,83.0,4,Action,"PC, PlayStation, Xbox","Steam, PlayStation Store, Xbox Store",Game
+3678,War Thunder,2013-08-15,3.26,544,81.0,6,"Action, Shooter, Simulation, Massively Multiplayer","PC, PlayStation, Xbox, Apple Macintosh, Linux","Xbox Store, PlayStation Store, Steam",Game
+18183,Company of Heroes,2006-09-11,3.54,363,93.0,7,Strategy,PC,Steam,Game
+16113,Sleeping Dogs,2012-08-14,4.05,807,81.0,14,"Action, Adventure","PC, PlayStation, Xbox","Xbox 360 Store, Steam",Game
+15834,The Walking Dead: Season 2,2013-12-16,3.96,890,80.0,10,"Action, Adventure","PC, PlayStation, Xbox, iOS, Android, Apple Macintosh","PlayStation Store, Epic Games, Xbox Store, Google Play, Xbox 360 Store, GOG, Steam, App Store",Game
+11276,Call of Duty: Modern Warfare 3,2011-11-07,3.69,919,85.0,8,"Action, Shooter","PC, PlayStation, Xbox, iOS, Apple Macintosh, Nintendo","App Store, PlayStation Store, Xbox 360 Store, Xbox Store, Nintendo Store, Steam",Game
+12756,"Warhammer 40,000: Space Marine",2011-09-05,3.4,464,74.0,5,"Action, Shooter","PC, PlayStation, Xbox","Xbox 360 Store, Steam",Game
+5193,Oddworld: Abe's Oddysee,1997-08-31,3.45,361,,3,"Action, Platformer","PC, PlayStation, Android, Nintendo","Steam, PlayStation Store, GOG",Game
+16343,A Story About My Uncle,2014-05-27,3.13,397,73.0,3,"Adventure, Arcade, Casual, Indie, Platformer","PC, Apple Macintosh, Linux","GOG, Steam",Game
+1959,Goat Simulator,2014-04-01,3.15,683,62.0,3,"Action, Simulation, Casual, Indie","PC, PlayStation, Xbox, iOS, Android, Apple Macintosh, Linux","Nintendo Store, App Store, Google Play, Xbox 360 Store, Steam, Xbox Store, PlayStation Store",Game
+10061,Watch Dogs 2,2016-11-28,3.84,919,79.0,16,"Action, Adventure","PC, PlayStation, Xbox","Epic Games, Xbox Store, PlayStation Store, Steam",Game
+4179,Darksiders II,2012-08-14,3.73,659,,6,"Action, RPG","PC, PlayStation, Xbox, Nintendo","Xbox 360 Store, Nintendo Store, PlayStation Store",Game
+3209,Until Dawn,2015-08-25,4.11,1118,79.0,14,"Action, Adventure",PlayStation,PlayStation Store,Game
+1090,This War of Mine,2014-11-13,4.05,688,83.0,4,"Adventure, Simulation, Indie","PC, iOS, Android, Apple Macintosh, Linux, Nintendo","GOG, App Store, Nintendo Store, Google Play, Steam, Epic Games",Game
+2093,No Man's Sky,2016-08-09,3.62,826,70.0,13,"Action, Adventure, RPG, Simulation, Massively Multiplayer, Indie","PC, PlayStation, Xbox","PlayStation Store, Xbox Store, Steam, GOG",Game
+11974,Mark of the Ninja,2012-09-07,4.0,551,91.0,5,"Action, Indie, Platformer","PC, Xbox, Apple Macintosh, Linux, Nintendo","Xbox 360 Store, GOG, Steam",Game
+21924,Call of Duty: WWII,2017-11-03,3.49,601,77.0,7,"Action, Shooter","PC, PlayStation, Xbox","Xbox Store, Steam, PlayStation Store",Game
+17959,Ori and the Blind Forest: Definitive Edition,2016-04-27,4.39,883,88.0,5,"Adventure, Platformer","PC, Xbox, Nintendo","Nintendo Store, Xbox Store, Steam",Game
+8146,Assassin's Creed Unity,2014-11-11,3.53,926,71.0,21,Action,"PC, PlayStation, Xbox","PlayStation Store, Xbox Store, Steam",Game
+290856,Apex Legends,2019-02-04,3.68,1258,88.0,0,"Action, Shooter, Massively Multiplayer","PC, PlayStation, Xbox, Apple Macintosh, Nintendo","Steam, PlayStation Store, Xbox Store",Game
+17380,Sid Meier's Civilization III Complete,2001-10-29,3.76,310,90.0,1,"Strategy, Simulation",PC,"GOG, Steam",Game
+14062,Red Orchestra 2: Heroes of Stalingrad with Rising Storm,2011-09-13,3.31,309,76.0,4,Action,PC,Steam,Game
+14512,Age of Wonders III,2014-03-31,2.97,275,80.0,4,"RPG, Strategy","PC, Apple Macintosh, Linux","GOG, Steam",Game
+2873,The Witness,2016-01-25,4.03,807,87.0,4,"Adventure, Indie, Puzzle","PC, PlayStation, Xbox, iOS, Android, Apple Macintosh","Epic Games, Google Play, App Store, Xbox Store, GOG, Steam, PlayStation Store",Game
+4123,Batman: Arkham Asylum,2009-08-25,4.41,1380,91.0,12,"Action, Adventure, Platformer","PC, PlayStation, Xbox, Apple Macintosh","App Store, Xbox 360 Store, PlayStation Store",Game
+9793,Guns of Icarus Online,2012-09-30,2.62,298,64.0,4,"Action, Simulation, Indie","PC, Apple Macintosh, Linux",Steam,Game
+42,What Remains of Edith Finch,2017-04-23,4.37,1161,89.0,3,"Adventure, Indie","PC, PlayStation, Xbox, Nintendo","Nintendo Store, Epic Games, Xbox Store, GOG, Steam, PlayStation Store",Game
+2166,Game of Thrones - A Telltale Games Series,2014-12-02,3.15,685,66.0,8,"Action, Adventure","PC, PlayStation, Xbox, iOS, Android, Apple Macintosh","App Store, Google Play, Steam, Xbox Store, Xbox 360 Store, GOG",Game
+14016,Tropico 4,2011-08-24,3.5,345,78.0,4,"Strategy, Simulation","PC, Xbox, Apple Macintosh","Xbox 360 Store, GOG, Steam",Game
+14446,Call of Duty: Black Ops II,2012-11-13,3.92,812,74.0,6,"Action, Shooter","PC, PlayStation, Xbox, Nintendo","Xbox 360 Store, Nintendo Store, Steam, Xbox Store",Game
+2728,Tom Clancy’s The Division,2016-03-07,3.72,874,80.0,29,"Action, Shooter, RPG","PC, PlayStation, Xbox","PlayStation Store, Xbox Store, Steam",Game
+9830,Brawlhalla,2014-04-30,3.24,522,,2,"Action, Casual, Fighting, Indie","PC, PlayStation, Xbox, iOS, Apple Macintosh, Nintendo","App Store, Xbox Store, PlayStation Store, Steam, Nintendo Store",Game
+3028,BEYOND: Two Souls,2013-10-08,3.74,1045,,7,"Action, Adventure","PC, PlayStation","Steam, PlayStation Store, Epic Games",Game
+13194,To the Moon,2011-01-10,4.27,675,81.0,4,"Adventure, RPG, Indie","PC, iOS, Android, Apple Macintosh, Linux, Nintendo","Google Play, App Store, Steam, GOG",Game
+5161,Braid,2008-08-06,4.19,656,92.0,2,"Action, Arcade, Indie, Puzzle, Platformer","PC, PlayStation, Xbox, iOS, Apple Macintosh, Linux","App Store, Xbox 360 Store, GOG, Steam, PlayStation Store",Game
+3912,Sanctum 2,2013-05-15,3.02,274,77.0,3,"Action, Shooter, Strategy, Indie","PC, PlayStation, Xbox, Apple Macintosh, Linux","PlayStation Store, Xbox 360 Store, Steam",Game
+2115,Overcooked,2016-08-02,4.09,856,81.0,4,"Simulation, Arcade, Casual, Indie","PC, PlayStation, Xbox, Nintendo","Epic Games, Steam, Xbox Store, PlayStation Store",Game
+15274,Jotun: Valhalla Edition,2015-09-29,3.08,355,79.0,3,"Action, Indie","PC, PlayStation, Xbox, Nintendo","Epic Games, Xbox Store, PlayStation Store, GOG, Nintendo Store, Steam",Game
+56184,Resident Evil 4,2005-01-11,4.35,994,86.0,5,"Action, Shooter, Adventure","PC, PlayStation, Xbox, iOS, Android, Nintendo","App Store, PlayStation Store, Xbox 360 Store, Xbox Store, Steam, Nintendo Store",Game
+6617,Quantum Break,2016-04-05,3.9,769,66.0,7,"Action, Shooter","PC, Xbox","Steam, Xbox Store",Game
+5578,Race Driver: Grid,2008-06-03,3.71,327,87.0,1,"Action, Simulation, Sports, Racing, Casual","PC, PlayStation, Xbox, Nintendo","Xbox Store, PlayStation Store, Steam, Xbox 360 Store, Nintendo Store",Game
+480,Resident Evil 7: Biohazard,2017-01-23,4.31,940,85.0,10,"Action, Shooter, Adventure","PC, PlayStation, Xbox","PlayStation Store, Steam, Xbox Store",Game
+16112,Sleeping Dogs: Definitive Edition,2014-10-08,4.11,613,76.0,5,"Action, Adventure","PC, PlayStation, Xbox, Apple Macintosh","Xbox Store, PlayStation Store, Steam",Game
+2623,Resident Evil 6,2012-10-02,3.35,737,69.0,8,"Action, Shooter","PC, PlayStation, Xbox, Nintendo, Web","Nintendo Store, PlayStation Store, Xbox Store, Steam, Xbox 360 Store",Game
+53341,Jet Set Radio,2000-06-29,3.34,347,94.0,1,"Action, Sports, Platformer","PC, PlayStation, Xbox, iOS, Android, Nintendo, SEGA","Xbox 360 Store, PlayStation Store, Steam",Game
+20406,Team Fortress Classic,1999-04-01,2.93,249,,1,Action,"PC, Apple Macintosh, Linux",Steam,Game
+2553,Ratchet & Clank (2016),2016-04-12,4.04,909,85.0,18,"Action, Shooter, Adventure",PlayStation,PlayStation Store,Game
+3408,Hotline Miami 2: Wrong Number,2015-03-09,4.25,723,,6,"Action, Shooter, Arcade, Indie","PC, PlayStation, iOS, Android, Apple Macintosh, Linux","PlayStation Store, Google Play, GOG, Steam",Game
+2047,Lords of the Fallen,2014-10-28,2.95,611,73.0,4,"Action, RPG","PC, PlayStation, Xbox, iOS, Android","PlayStation Store, Xbox Store, App Store, Google Play, Steam",Game
+4101,Bayonetta,2009-06-23,4.29,740,90.0,5,Action,"PC, PlayStation, Xbox, Nintendo","Xbox Store, Xbox 360 Store, Nintendo Store, Steam, PlayStation Store",Game
+28172,Kingdom Come: Deliverance,2018-02-13,4.02,720,71.0,11,"Action, Adventure, RPG","PC, PlayStation, Xbox","Epic Games, Xbox Store, GOG, PlayStation Store, Steam",Game
+9653,Hacknet,2015-08-11,3.2,324,82.0,3,"Simulation, Indie","PC, Apple Macintosh, Linux","Steam, GOG",Game
+10001,Serious Sam Fusion 2017 (beta),2017-03-20,3.06,214,,1,"Action, Indie","PC, Apple Macintosh, Linux",Steam,Game
+5687,The Playroom,2013-11-15,2.23,587,,0,Arcade,PlayStation,PlayStation Store,Game
+19569,Hitman: Blood Money,2006-05-29,4.29,593,82.0,2,"Action, Shooter","PC, PlayStation, Xbox","PlayStation Store, GOG, Xbox 360 Store, Steam",Game
+2597,LEGO The Lord of the Rings,2012-09-28,3.39,373,80.0,3,"Action, Casual, Family, Platformer","PC, PlayStation, Xbox, iOS, Android, Nintendo","App Store, Google Play, Nintendo Store, Steam, Xbox 360 Store",Game
+25,Middle-earth: Shadow of War,2017-09-27,3.86,688,82.0,15,"Action, RPG","PC, PlayStation, Xbox","App Store, PlayStation Store, Google Play, Steam, Xbox Store",Game
+1244,Darkest Dungeon,2016-01-18,4.23,734,84.0,8,"RPG, Strategy, Indie","PC, PlayStation, Xbox, Apple Macintosh, Linux, Nintendo","Xbox Store, Nintendo Store, GOG, Steam, PlayStation Store",Game
+3647,Child of Light,2014-04-29,3.86,672,77.0,3,"RPG, Indie","PC, PlayStation, Xbox, Nintendo","Xbox 360 Store, Nintendo Store, Steam, Xbox Store, PlayStation Store",Game
+22511,The Legend of Zelda: Breath of the Wild,2017-03-02,4.56,1746,97.0,121,"Action, Adventure, RPG",Nintendo,Nintendo Store,Game
+4414,Grand Theft Auto: Episodes from Liberty City,2010-04-10,4.06,436,,3,"Action, Shooter","PC, PlayStation, Xbox","PlayStation Store, Steam",Game
+306124,Borderlands Game of the Year Enhanced,2019-04-03,3.82,610,78.0,2,"Action, Shooter, RPG","PC, PlayStation, Xbox",Steam,Game
+894,Destiny,2014-09-09,3.71,798,76.0,24,"Action, Shooter","PlayStation, Xbox","PlayStation Store, Xbox 360 Store, Xbox Store",Game
+750,FINAL FANTASY XV,2016-11-29,3.88,891,82.0,5,RPG,"PC, PlayStation, Xbox","Xbox Store, Steam, PlayStation Store",Game
+7819,SUPERHOT,2016-02-24,4.23,823,82.0,4,"Action, Shooter, Indie","PC, PlayStation, Xbox, Apple Macintosh, Linux, Nintendo, Web","Epic Games, Nintendo Store, PlayStation Store, GOG, Xbox Store, Steam",Game
+3842,Battlefield 4,2013-10-29,3.91,877,81.0,12,"Action, Shooter","PC, PlayStation, Xbox","Xbox 360 Store, Xbox Store, PlayStation Store",Game
+11052,Titan Quest Anniversary Edition,2016-08-31,3.92,396,,6,"Action, RPG",PC,"GOG, Xbox Store, Steam",Game
+14690,Trine Enchanted Edition,2009-07-02,3.81,477,80.0,4,"Action, Arcade, Indie, Platformer","PC, Apple Macintosh, Linux, Nintendo","Nintendo Store, Steam",Game
+2100,Tales from the Borderlands,2015-10-21,4.16,741,86.0,11,Adventure,"PC, PlayStation, Xbox, iOS, Android, Apple Macintosh","App Store, Google Play, Xbox Store, Xbox 360 Store, GOG, Steam",Game
+16359,Divinity: Original Sin - Enhanced Edition,2015-10-27,4.29,636,94.0,8,"RPG, Indie","PC, PlayStation, Xbox, Apple Macintosh, Linux","Xbox Store, PlayStation Store, GOG, Steam",Game
+13913,Deus Ex: Game of the Year Edition,2007-03-29,4.13,358,90.0,1,"Action, Shooter",PC,Steam,Game
+4000,Remember Me,2013-06-04,3.68,604,65.0,5,"Action, Platformer","PC, PlayStation, Xbox","Xbox 360 Store, PlayStation Store, Steam",Game
+18614,Half-Life: Source,2004-06-01,3.83,328,,1,Action,"PC, Apple Macintosh, Linux",Steam,Game
+559,Fallout Shelter,2015-06-15,3.47,808,63.0,2,"RPG, Simulation","PC, PlayStation, Xbox, iOS, Android, Nintendo","App Store, Google Play, Nintendo Store, PlayStation Store, Steam, Xbox Store",Game
+892,Dust: An Elysian Tail,2012-08-15,3.61,449,84.0,4,"Action, RPG, Indie, Platformer","PC, PlayStation, Xbox, iOS, Apple Macintosh, Linux, Nintendo","PlayStation Store, App Store, Xbox 360 Store, Steam, GOG, Nintendo Store",Game
+16199,Killer is Dead - Nightmare Edition,2014-05-23,3.26,276,,3,Action,PC,Steam,Game
+3427,Murdered: Soul Suspect,2014-06-03,3.42,585,59.0,5,"Action, Adventure, RPG","PC, PlayStation, Xbox","Xbox 360 Store, Steam, PlayStation Store, Xbox Store",Game
+4347,DiRT Showdown,2012-05-24,3.29,297,74.0,2,"Action, Sports, Racing, Arcade","PC, PlayStation, Xbox","Xbox 360 Store, PlayStation Store",Game
+295021,Orwell: Keeping an Eye On You,2016-10-27,3.24,388,77.0,3,"Adventure, Simulation, Indie, Puzzle","PC, iOS, Apple Macintosh, Linux","App Store, Steam, GOG",Game
+17037,Monaco: What's Yours Is Mine,2013-04-24,3.07,256,83.0,3,"Action, Strategy, Casual, Indie","PC, Xbox, Apple Macintosh, Linux","Xbox 360 Store, Steam",Game
+42895,Assassin's Creed Syndicate,2015-10-13,3.68,847,74.0,27,Action,"PC, PlayStation, Xbox","Epic Games, PlayStation Store, Xbox Store, Steam",Game
+14317,Endless Space - Emperor Edition,2012-07-04,3.26,234,77.0,5,Strategy,"PC, Apple Macintosh",Steam,Game
+51325,The Last of Us Part II,2020-06-19,4.38,422,94.0,0,"Action, Shooter, Adventure",PlayStation,PlayStation Store,Game
+3697,Serious Sam 3: BFE,2011-11-22,3.45,428,72.0,4,"Action, Shooter, Indie","PC, PlayStation, Xbox, Apple Macintosh, Linux","Xbox 360 Store, Steam, PlayStation Store",Game
+19375,Far Cry 3 - Blood Dragon,2013-04-30,4.0,641,81.0,4,Shooter,"PC, PlayStation, Xbox","Xbox Store, PlayStation Store, Xbox 360 Store, Steam",Game
+58755,Devil May Cry 5,2019-03-08,4.24,833,88.0,10,Action,"PC, PlayStation, Xbox","Steam, Xbox Store",Game
+257201,Star Wars Jedi: Fallen Order,2019-11-15,4.13,676,80.0,8,"Action, Adventure","PC, PlayStation, Xbox","Epic Games, Steam, Xbox Store, PlayStation Store",Game
+19491,Burnout Paradise: The Ultimate Box,2009-02-05,3.94,432,87.0,2,"Racing, Arcade",PC,Steam,Game
+16209,Kingdom: Classic,2015-09-21,3.42,332,74.0,4,"Strategy, Simulation, Indie","PC, Apple Macintosh, Linux",Steam,Game
+15858,STAR WARS Knights of the Old Republic II - The Sith Lords,2004-12-06,4.35,572,85.0,3,"Adventure, RPG","PC, Xbox, Apple Macintosh, Linux","App Store, Xbox 360 Store, GOG, Steam",Game
+1789,The Swapper,2013-05-12,3.52,378,87.0,3,"Action, Adventure, Indie, Puzzle, Platformer","PC, PlayStation, Xbox, Apple Macintosh, Linux, Nintendo","Nintendo Store, Steam, GOG, PlayStation Store, Xbox Store",Game
+3350,Broken Age,2014-01-28,3.66,490,81.0,5,"Adventure, Casual, Family, Indie, Puzzle","PC, PlayStation, Xbox, iOS, Android, Apple Macintosh, Linux, Nintendo","GOG, itch.io, Nintendo Store, App Store, Google Play, Xbox Store, Steam, PlayStation Store",Game
+4491,Shadow of the Colossus (2011),2011-09-22,4.28,746,91.0,3,Action,PlayStation,PlayStation Store,Game
+22509,Minecraft,2009-05-10,4.4,1142,83.0,26,"Action, Simulation, Arcade","PC, PlayStation, Xbox, iOS, Android, Apple Macintosh, Linux, Nintendo","Google Play, Xbox Store, PlayStation Store, App Store, Nintendo Store",Game
+10073,Divinity: Original Sin 2,2017-09-14,4.39,824,95.0,23,"RPG, Strategy","PC, PlayStation, Xbox","GOG, Steam",Game
+3965,Binary Domain,2012-02-16,3.59,384,68.0,2,"Action, Shooter","PC, PlayStation, Xbox","Xbox 360 Store, Steam, PlayStation Store",Game
+4094,METAL GEAR RISING: REVENGEANCE,2013-02-19,4.15,670,83.0,6,Action,"PC, PlayStation, Xbox","Google Play, Xbox 360 Store, Steam, PlayStation Store",Game
+9671,Rust,2018-02-09,3.38,451,69.0,13,"Action, Shooter, RPG, Massively Multiplayer, Indie","PC, Xbox, Apple Macintosh, Linux",Steam,Game
+11726,Dead Cells,2018-08-07,4.29,848,88.0,10,"Action, RPG, Indie, Platformer","PC, PlayStation, Xbox, iOS, Nintendo","App Store, itch.io, Xbox Store, PlayStation Store, Nintendo Store, GOG, Steam",Game
+6879,The Flame in the Flood,2016-02-23,2.87,275,73.0,2,"Action, Simulation, Indie","PC, PlayStation, Xbox, Apple Macintosh, Nintendo","PlayStation Store, GOG, Steam, Xbox Store",Game
+1758,Valiant Hearts: The Great War,2014-06-24,4.33,805,,6,"Adventure, RPG, Puzzle","PC, PlayStation, Xbox, iOS, Android, Nintendo","Google Play, Nintendo Store, App Store, Xbox 360 Store, Steam, Xbox Store, PlayStation Store",Game
+12019,BattleBlock Theater,2013-04-03,3.9,579,85.0,5,"Action, Adventure, Casual, Indie, Platformer","PC, Xbox, Apple Macintosh, Linux","Xbox Store, Xbox 360 Store, Steam",Game
+28559,Dragon Age: Inquisition,2014-11-18,3.78,894,86.0,17,RPG,"PC, PlayStation, Xbox","Steam, Xbox Store, PlayStation Store, Xbox 360 Store",Game
+10297,Sid Meier’s Civilization VI,2016-10-20,4.15,708,88.0,15,"Strategy, Simulation","PC, PlayStation, Xbox, iOS, Apple Macintosh, Linux, Nintendo","Epic Games, Xbox Store, PlayStation Store, App Store, Nintendo Store, Steam",Game
+9609,Euro Truck Simulator 2,2012-10-19,4.03,448,79.0,11,"Simulation, Indie","PC, Apple Macintosh, Linux",Steam,Game
+22938,Shadow Warrior (2013),2013-09-25,3.59,413,73.0,4,"Action, Shooter","PC, PlayStation, Xbox, iOS, Apple Macintosh, Linux","PlayStation Store, App Store, Xbox Store, Steam, GOG",Game
+3635,Rogue Legacy,2013-06-26,3.85,583,85.0,5,"Action, RPG, Indie, Platformer","PC, PlayStation, Xbox, iOS, Nintendo","App Store, Steam, GOG, Xbox Store, PlayStation Store, Nintendo Store",Game
+3346,Wolfenstein: The Old Blood,2015-05-04,4.05,681,76.0,7,"Action, Shooter","PC, PlayStation, Xbox","GOG, PlayStation Store, Xbox Store, Steam",Game
+250,The Binding of Isaac: Rebirth,2014-11-04,4.31,674,86.0,34,"Action, RPG","PC, PlayStation, Xbox, iOS, Apple Macintosh, Linux, Nintendo","App Store, Xbox Store, Nintendo Store, Steam, PlayStation Store",Game
+678,Neverwinter,2013-06-20,2.98,411,74.0,6,"Action, RPG, Massively Multiplayer","PC, PlayStation, Xbox","PlayStation Store, Steam, Xbox Store",Game
+19647,Crysis 2 - Maximum Edition,2011-03-22,3.71,387,,2,Action,PC,Steam,Game
+857,Halo: The Master Chief Collection,2014-11-11,4.29,534,85.0,5,"Action, Adventure","PC, Xbox","Steam, Xbox Store",Game
+3554,The Evil Within,2014-10-12,3.97,666,68.0,7,"Action, Shooter, Adventure","PC, PlayStation, Xbox","GOG, Xbox Store, Xbox 360 Store, Steam, PlayStation Store",Game
+11686,POSTAL 2,2003-04-13,3.89,535,59.0,4,"Action, Shooter, Adventure, Indie","PC, Apple Macintosh, Linux","Steam, GOG",Game
+5342,Medal of Honor,2010-10-12,3.23,427,72.0,2,"Action, Shooter","PC, PlayStation, Xbox","Xbox 360 Store, Steam, PlayStation Store",Game
+14348,Dying Light: The Following - Enhanced Edition,2015-01-26,4.19,516,87.0,18,"Action, RPG","PC, PlayStation, Xbox, Apple Macintosh, Linux",Steam,Game
+752,SMITE,2015-08-19,3.16,452,83.0,3,Action,"PC, PlayStation, Xbox, Apple Macintosh, Nintendo","Epic Games, Nintendo Store, Steam, PlayStation Store, Xbox Store",Game
+3561,Spelunky,2012-07-04,3.7,426,90.0,3,"Indie, Platformer","PC, PlayStation, Xbox","PlayStation Store, Xbox 360 Store, Steam, GOG",Game
+19452,F.E.A.R.,2005-10-18,4.26,569,88.0,2,"Action, Shooter","PC, PlayStation, Xbox","Xbox 360 Store, Steam",Game
+9631,Sins of a Solar Empire: Rebellion,2012-06-12,2.78,241,82.0,5,"Strategy, Indie",PC,Steam,Game
+3729,LEGO The Hobbit,2014-04-08,3.38,272,70.0,2,"Action, Adventure, Family","PC, PlayStation, Xbox, Apple Macintosh, Nintendo","Xbox Store, Xbox 360 Store, Nintendo Store, Steam",Game
+19299,Fallout 2: A Post Nuclear Role Playing Game,1998-09-30,4.36,688,86.0,2,RPG,"PC, Apple Macintosh","GOG, Steam",Game
+18003,Gone Home,2013-08-14,3.74,611,86.0,2,"Adventure, Indie","PC, PlayStation, iOS, Apple Macintosh, Linux, Nintendo","Epic Games, itch.io, App Store, Nintendo Store, GOG, Steam",Game
+4729,Assassin's Creed,2007-11-13,3.82,986,80.0,5,"Action, Adventure","PC, PlayStation, Xbox","Xbox 360 Store, PlayStation Store",Game
+719,Deponia,2012-01-27,3.86,434,74.0,4,"Adventure, RPG, Indie, Puzzle","PC, PlayStation, Xbox, iOS, Apple Macintosh, Linux, Nintendo","App Store, Xbox Store, PlayStation Store, Steam, GOG",Game
+14334,Satellite Reign,2015-08-27,2.6,213,75.0,4,"Action, Strategy, Indie","PC, Apple Macintosh, Linux","GOG, Steam",Game
+4249,HELL YEAH! Wrath of the Dead Rabbit,2012-09-25,2.48,224,64.0,1,"Action, Arcade, Platformer","PC, PlayStation, Xbox","PlayStation Store, Xbox 360 Store, Steam",Game
+829,Killing Floor 2,2016-11-18,3.5,506,75.0,10,Action,"PC, PlayStation, Xbox","Epic Games, PlayStation Store, Xbox Store, Steam",Game
+5565,F.E.A.R. 3,2011-03-25,3.33,374,74.0,3,"Action, Shooter","PC, PlayStation, Xbox","PlayStation Store, Xbox 360 Store, Steam",Game
+4676,Outland,2011-04-26,2.91,247,83.0,3,"Action, Adventure, Indie, Platformer","PC, PlayStation, Xbox, Apple Macintosh, Linux","Xbox 360 Store, Steam, PlayStation Store",Game
+21926,Uncharted: The Lost Legacy,2017-08-22,4.29,833,85.0,0,"Action, Adventure",PlayStation,PlayStation Store,Game
+4397,Battlefield 3,2011-10-25,3.99,771,86.0,8,"Action, Shooter, Massively Multiplayer","PC, PlayStation, Xbox","Steam, Xbox Store, Xbox 360 Store, PlayStation Store",Game
+295,Oxenfree,2016-01-14,3.9,576,80.0,4,"Adventure, RPG, Indie","PC, PlayStation, Xbox, iOS, Android, Apple Macintosh, Linux, Nintendo","Google Play, App Store, Epic Games, Nintendo Store, GOG, Steam, Xbox Store, PlayStation Store",Game
+19600,Far Cry 2,2008-10-21,3.45,566,85.0,2,"Action, Shooter","PC, PlayStation, Xbox","Xbox 360 Store, PlayStation Store, Steam",Game
+4612,Renegade Ops,2011-09-13,2.94,234,76.0,2,"Action, Shooter","PC, PlayStation, Xbox","Xbox 360 Store, PlayStation Store, Steam",Game
+17803,Ryse: Son of Rome,2013-11-22,3.59,549,61.0,6,"Action, Adventure","PC, Xbox","Xbox Store, Steam",Game
+58813,Resident Evil 2,2019-01-25,4.46,1028,91.0,11,"Action, Shooter, Adventure","PC, PlayStation, Xbox","Xbox Store, Steam, PlayStation Store",Game
+15566,Red Faction Guerrilla,2009-06-02,3.65,405,82.0,5,"Action, Shooter","PC, PlayStation, Xbox","Xbox 360 Store, PlayStation Store, Steam",Game
+17252,Deadlight,2012-06-01,3.59,402,78.0,4,"Action, Indie, Platformer","PC, Xbox","Xbox 360 Store, Steam",Game
+4882,Lara Croft and the Guardian of Light,2010-08-05,3.46,335,82.0,2,"Action, Adventure","PC, PlayStation, Xbox, iOS, Android","Xbox 360 Store, Steam, PlayStation Store",Game
+15829,Pillars of Eternity,2015-03-26,3.94,455,89.0,9,RPG,"PC, PlayStation, Xbox, Apple Macintosh, Linux",Steam,Game
+492,Yakuza 0,2015-03-12,4.32,576,85.0,7,"Action, RPG","PC, PlayStation, Xbox","Xbox Store, Steam, PlayStation Store",Game
+5564,F.E.A.R. 2: Project Origin,2009-02-10,3.84,397,79.0,4,"Action, Shooter","PC, PlayStation, Xbox","PlayStation Store, Xbox 360 Store, GOG, Steam",Game
+1140,World of Goo,2008-10-13,4.02,508,90.0,1,"Strategy, Educational, Family, Indie, Puzzle","PC, iOS, Android, Apple Macintosh, Linux, Nintendo","Google Play, Nintendo Store, GOG, Steam, App Store",Game
+4523,Red Faction: Armageddon,2011-06-07,3.01,278,75.0,2,"Action, Shooter","PC, PlayStation, Xbox","GOG, Xbox 360 Store, Steam, PlayStation Store",Game
+2559,Stories: The Path of Destinies,2016-04-11,3.22,388,74.0,4,"Action, RPG, Indie, Platformer","PC, PlayStation, Xbox","Xbox Store, GOG, Steam, PlayStation Store",Game
+5159,Resident Evil 2 (1998),1998-01-21,4.34,526,,14,"Action, Adventure","PC, PlayStation, Xbox, Nintendo, SEGA","Xbox Store, PlayStation Store",Game
+41494,Cyberpunk 2077,2020-11-19,4.33,214,,0,"Action, RPG","PC, PlayStation, Xbox","PlayStation Store, GOG, Epic Games, Steam, Xbox Store",Game
+17885,Overlord,2007-06-26,3.8,335,81.0,1,"Action, RPG","PC, Xbox, Apple Macintosh, Linux","Xbox 360 Store, Steam",Game
+5636,RAGE,2011-10-03,3.39,538,79.0,5,"Action, Shooter, Racing","PC, PlayStation, Xbox","Xbox 360 Store, Steam, PlayStation Store",Game
+19429,Alien Swarm,2010-07-19,3.32,481,77.0,2,Action,PC,Steam,Game
+28395,Metro: Last Light,2013-05-13,4.09,608,81.0,8,"Action, Shooter","PC, PlayStation, Xbox",Xbox 360 Store,Game
+3371,Dark Souls II: Scholar of the First Sin,2015-04-01,4.15,618,79.0,23,"Action, RPG","PC, PlayStation, Xbox","PlayStation Store, Steam, Xbox Store",Game
+19451,Fallout 3: Game of the Year Edition,2009-10-13,4.17,521,91.0,4,"Action, RPG","PC, PlayStation, Xbox",Steam,Game
+884,Call of Duty: Modern Warfare Remastered,2016-10-05,3.98,734,86.0,5,"Action, Shooter","PC, PlayStation, Xbox","PlayStation Store, Steam, Xbox Store",Game
+12929,The Talos Principle,2014-12-11,4.19,503,85.0,5,"Adventure, Indie, Puzzle","PC, PlayStation, Xbox, iOS, Android, Apple Macintosh, Linux, Nintendo","Epic Games, Nintendo Store, App Store, Google Play, Steam, Xbox Store",Game
+17174,Resident Evil Revelations 2 / Biohazard Revelations 2,2015-02-24,3.69,450,72.0,4,"Action, Adventure","PC, PlayStation, Xbox, Nintendo","Xbox 360 Store, Nintendo Store, PlayStation Store, Steam",Game
+3052,STAR WARS Battlefront,2015-11-17,3.26,751,,4,"Action, Shooter","PC, PlayStation, Xbox","Steam, Xbox 360 Store, PlayStation Store, Xbox Store",Game
+3449,Resident Evil,1996-03-22,4.24,471,,5,"Action, Adventure","PC, PlayStation, Xbox, Nintendo","Nintendo Store, Xbox Store, Xbox 360 Store, PlayStation Store",Game
+41490,Divinity: Original Sin,2014-06-30,4.19,467,87.0,7,"RPG, Strategy, Indie","PC, Apple Macintosh",Steam,Game
+10092,Minion Masters,2019-05-24,2.41,208,,5,"Action, Strategy, Indie","PC, Xbox","Steam, Xbox Store",Game
+1259,Machinarium,2009-10-16,4.14,494,85.0,3,"Adventure, Family, Indie, Puzzle","PC, PlayStation, Xbox, iOS, Android, Apple Macintosh, Linux, Nintendo","Xbox Store, Google Play, GOG, App Store, PlayStation Store, Steam, itch.io, Nintendo Store",Game
+4439,Mass Effect 3,2012-03-05,4.37,1032,,31,"Action, RPG","PC, PlayStation, Xbox, Nintendo","Xbox Store, Steam, Nintendo Store, Xbox 360 Store, PlayStation Store",Game
+10449,Darksiders II Deathinitive Edition,2015-11-05,3.82,342,,9,"Action, RPG","PC, PlayStation, Xbox, Nintendo","Epic Games, PlayStation Store, Xbox Store, Steam",Game
+10419,Subnautica,2018-01-23,4.26,687,83.0,9,"Adventure, Indie","PC, PlayStation, Xbox, Apple Macintosh","PlayStation Store, Epic Games, Xbox Store, Steam",Game
+4387,Awesomenauts,2012-05-01,3.08,298,78.0,7,"Action, Strategy, Indie, Platformer","PC, PlayStation, Xbox, Apple Macintosh, Linux","Xbox 360 Store, PlayStation Store, Steam",Game
+13886,STAR WARS Battlefront 2 (2005),2005-10-30,4.16,495,78.0,2,"Action, Shooter","PC, PlayStation, Xbox","PlayStation Store, Xbox 360 Store, GOG, Steam",Game
+3300,The Elder Scrolls Online: Tamriel Unlimited,2015-03-17,3.48,467,77.0,13,"Action, RPG, Massively Multiplayer","PC, PlayStation, Xbox, Apple Macintosh","PlayStation Store, Xbox Store, Steam",Game
+10428,Heroes & Generals,2016-10-18,2.87,273,,2,"Action, Massively Multiplayer, Indie",PC,Steam,Game
+7381,ABZU,2016-08-02,3.97,640,83.0,3,"Adventure, Simulation, Indie","PC, PlayStation, Xbox, Nintendo","Epic Games, PlayStation Store, Nintendo Store, GOG, Steam, Xbox Store",Game
+49,Persona 5,2016-09-15,4.38,935,93.0,105,"Action, Adventure, RPG",PlayStation,PlayStation Store,Game
+274762,The Outer Worlds,2019-10-25,4.0,624,80.0,0,"Action, Shooter, Adventure, RPG","PC, PlayStation, Xbox, Nintendo","Nintendo Store, Xbox Store, PlayStation Store, Epic Games, Steam",Game
+23587,Sonic Mania,2017-08-15,3.94,570,85.0,3,"Action, Adventure, Casual, Platformer","PC, PlayStation, Xbox, Nintendo","Steam, Xbox Store, Nintendo Store, PlayStation Store",Game
+2518,Max Payne,2001-07-23,4.45,1015,89.0,2,"Action, Shooter","PC, PlayStation, Xbox, iOS, Android, Apple Macintosh, Nintendo","Google Play, App Store, Xbox 360 Store, Steam, PlayStation Store",Game
+42776,Never Alone,2014-11-18,3.54,382,70.0,4,"Adventure, Casual, Indie","PC, PlayStation, Xbox, iOS, Android, Apple Macintosh, Linux, Nintendo","PlayStation Store, Steam, Nintendo Store, Xbox Store",Game
+19592,Hitman 2: Silent Assassin,2002-09-30,3.91,379,87.0,1,"Action, Simulation","PC, PlayStation, Xbox, Nintendo","PlayStation Store, GOG, Steam",Game
+22513,Uncharted 2: Among Thieves,2009-10-13,4.37,1153,96.0,13,"Action, Shooter, Adventure",PlayStation,,Game
+28201,Metro Exodus,2019-02-13,4.04,692,81.0,17,"Action, Shooter","PC, PlayStation, Xbox","GOG, PlayStation Store, Epic Games, Xbox Store, Steam",Game
+14990,Viking: Battle for Asgard,2008-03-25,2.46,203,66.0,1,"Action, Adventure, RPG, Fighting","PC, PlayStation, Xbox","Xbox 360 Store, Steam",Game
+58812,Control,2019-08-27,4.17,621,84.0,0,"Action, Shooter, Adventure","PC, PlayStation, Xbox","PlayStation Store, Epic Games, Xbox Store, Steam",Game
+17356,Orcs Must Die! 2,2012-07-30,3.73,354,83.0,6,"Action, Strategy, Indie",PC,Steam,Game
+15714,Deponia: The Complete Journey,2014-06-03,3.63,254,,4,"Adventure, RPG","PC, iOS, Apple Macintosh, Linux","App Store, Steam",Game
+3251,F1 2015,2015-07-09,2.71,196,61.0,5,"Sports, Racing","PC, PlayStation, Xbox, Linux","Steam, PlayStation Store, Xbox Store",Game
+3486,Syberia,2002-05-28,4.07,410,82.0,3,"Adventure, Puzzle","PC, PlayStation, Xbox, iOS, Android, Apple Macintosh, Nintendo","App Store, Google Play, Nintendo Store, Xbox 360 Store, Steam, PlayStation Store, GOG",Game
+16191,Galactic Civilizations II: Ultimate Edition,2011-12-02,2.72,169,92.0,1,Strategy,PC,Steam,Game
+11312,The Long Dark,2014-09-22,3.91,416,,5,"Action, Adventure, Simulation, Indie","PC, PlayStation, Xbox, Apple Macintosh, Linux","Xbox Store, GOG, Steam, PlayStation Store",Game
+4869,Tomb Raider: Underworld,2008-11-18,3.68,312,80.0,1,"Action, Adventure","PC, PlayStation, Xbox, Apple Macintosh, Nintendo","App Store, Xbox 360 Store, Nintendo Store, PlayStation Store, Steam",Game
+3265,God of War III Remastered,2015-07-14,4.05,725,,6,Action,PlayStation,PlayStation Store,Game
+17857,S.T.A.L.K.E.R.: Shadow of Chernobyl,2007-03-19,4.3,576,82.0,3,"Action, Shooter, Adventure, RPG",PC,"GOG, Steam",Game
+10064,Assassin’s Creed Brotherhood,2010-11-16,4.21,840,88.0,16,"Action, Adventure","PC, PlayStation, Xbox, Apple Macintosh","PlayStation Store, Xbox 360 Store, Steam",Game
+3290,PlanetSide 2,2012-11-20,3.01,312,84.0,3,"Action, Shooter, Massively Multiplayer","PC, PlayStation","Steam, PlayStation Store",Game
+12569,Starbound,2016-07-21,3.9,484,81.0,17,"Action, RPG, Casual, Indie","PC, Apple Macintosh, Linux","GOG, Steam",Game
+10615,System Shock 2,1999-08-10,4.17,268,92.0,2,"Action, Shooter, RPG","PC, Apple Macintosh, Linux","Steam, GOG",Game
+17127,Torchlight,2009-10-26,3.72,422,83.0,5,"Action, RPG","PC, Xbox, Apple Macintosh, Linux","Xbox Store, Epic Games, Xbox 360 Store, Steam, GOG",Game
+4340,UNCHARTED: Drake's Fortune,2007-11-19,4.04,955,88.0,12,"Action, Adventure",PlayStation,PlayStation Store,Game
+11279,Day of Defeat: Source,2005-09-26,3.26,244,80.0,4,Action,"PC, Apple Macintosh, Linux",Steam,Game
+13247,Human: Fall Flat,2016-07-22,3.83,500,70.0,5,"Action, Indie, Puzzle","PC, PlayStation, Xbox, iOS, Android, Apple Macintosh, Linux, Nintendo","Google Play, App Store, Nintendo Store, Xbox Store, PlayStation Store, Steam, GOG",Game
+46956,Doki Doki Literature Club!,2017-09-22,4.07,638,78.0,3,"Adventure, Indie","PC, Apple Macintosh, Linux","itch.io, Steam",Game
+3315,Magicka 2,2015-05-26,3.65,421,69.0,4,"Action, Adventure, RPG","PC, PlayStation, Apple Macintosh, Linux","Steam, PlayStation Store",Game
+3459,The Order: 1886,2015-01-13,3.76,692,63.0,11,"Action, Adventure",PlayStation,PlayStation Store,Game
+42215,Dying Light,2015-01-27,4.09,678,74.0,22,"Action, Adventure, RPG","PC, PlayStation, Xbox","Steam, Xbox Store, PlayStation Store",Game
+12320,Prison Architect,2015-10-05,3.81,320,83.0,5,"Strategy, Simulation, Indie","PC, PlayStation, Xbox, Apple Macintosh, Linux, Nintendo","Nintendo Store, PlayStation Store, Xbox Store, GOG, Steam",Game
+2722,Kholat,2015-06-08,2.68,262,64.0,3,"Adventure, Indie","PC, PlayStation, Xbox","Xbox Store, GOG, Steam, PlayStation Store",Game
+5528,Call of Duty: World at War,2008-11-11,3.92,672,83.0,7,"Action, Shooter","PC, PlayStation, Xbox, Nintendo","Xbox Store, Xbox 360 Store, Nintendo Store, PlayStation Store, Steam",Game
+2434,VVVVVV,2010-01-09,3.72,346,81.0,1,"Action, Adventure, Arcade, Casual, Indie, Puzzle, Platformer","PC, PlayStation, iOS, Android, Apple Macintosh, Linux, Nintendo","itch.io, Nintendo Store, Google Play, GOG, Steam, PlayStation Store, App Store",Game
+28152,Star Wars: Battlefront II (2017),2017-11-17,3.52,658,74.0,4,Shooter,"PC, PlayStation, Xbox","Steam, Xbox Store",Game
+22121,Celeste,2018-01-25,4.39,887,91.0,6,"Indie, Platformer","PC, PlayStation, Xbox, Apple Macintosh, Linux, Nintendo","Epic Games, Xbox Store, PlayStation Store, Nintendo Store, Steam",Game
+3494,Thomas Was Alone,2012-06-30,3.75,398,77.0,2,"Adventure, Family, Indie","PC, PlayStation, Xbox, iOS, Android, Apple Macintosh, Linux, Nintendo","Google Play, Nintendo Store, Steam, Xbox Store, PlayStation Store, App Store",Game
+4032,Dragon's Dogma: Dark Arisen,2013-04-23,3.95,422,81.0,8,"Action, Adventure, RPG","PC, PlayStation, Xbox, Nintendo","PlayStation Store, Nintendo Store, Xbox Store, GOG, Steam",Game
+14989,Alpha Protocol,2010-04-08,3.51,309,72.0,2,"Action, Shooter, RPG","PC, PlayStation, Xbox","Xbox 360 Store, Steam",Game
+28131,Fortnite: Save The World,2017-07-21,2.99,708,,0,"Action, Shooter, Strategy","PC, PlayStation, Xbox, iOS, Nintendo","Nintendo Store, App Store, Xbox Store, PlayStation Store, Epic Games",Game
+17599,Mortal Kombat Komplete Edition,2013-07-03,4.07,555,,7,"Arcade, Fighting","PC, PlayStation, Xbox","Xbox 360 Store, Steam",Game
+19410,Day of Defeat,2003-05-01,2.83,180,79.0,1,Action,"PC, Apple Macintosh, Linux",Steam,Game
+2300,Drawful 2,2016-06-20,3.53,105,,1,"Strategy, Casual, Indie","PC, PlayStation, Xbox, Apple Macintosh, Nintendo","Epic Games, Nintendo Store, Steam, Xbox Store, PlayStation Store",Game
+2131,Race The Sun,2013-08-17,3.19,312,79.0,3,"Action, Racing, Arcade, Indie","PC, PlayStation, Xbox, iOS, Apple Macintosh, Linux, Nintendo, Web","PlayStation Store, App Store, Nintendo Store, Xbox Store, GOG, Steam",Game
+58752,The Awesome Adventures of Captain Spirit,2018-06-25,3.65,581,77.0,2,Adventure,"PC, PlayStation, Xbox","PlayStation Store, Steam, Xbox Store",Game
+123,Titan Quest,2006-06-26,3.9,321,69.0,1,"Action, RPG","PC, PlayStation, Xbox, iOS, Android, Nintendo","PlayStation Store, Google Play, Nintendo Store, App Store, Xbox Store",Game
+9744,RiME,2017-05-25,3.71,578,78.0,4,"Adventure, Puzzle","PC, PlayStation, Xbox, Nintendo","Epic Games, Nintendo Store, GOG, Xbox Store, PlayStation Store, Steam",Game
+15317,Shadow Warrior Classic,1997-05-12,3.38,225,73.0,1,"Action, Shooter","PC, Apple Macintosh, Linux","GOG, Steam, App Store, Google Play",Game
+29215,Life is Strange: Before The Storm,2017-08-30,3.93,714,77.0,10,Adventure,"PC, PlayStation, Xbox, iOS, Android, Apple Macintosh, Linux","GOG, App Store, Xbox Store, PlayStation Store, Steam",Game
+14606,Ricochet,2000-11-01,2.39,169,,1,Action,"PC, Apple Macintosh, Linux",Steam,Game
+10310,Robocraft,2014-07-08,2.66,228,,2,"Action, RPG, Simulation, Massively Multiplayer, Indie","PC, Apple Macintosh, Linux",Steam,Game
+16355,Evolve Stage 2,2015-02-10,2.49,290,77.0,3,Action,PC,Steam,Game
+20405,Deathmatch Classic,2001-06-01,2.78,163,,1,Action,"PC, Apple Macintosh, Linux",Steam,Game
+17295,Enclave,2002-07-18,3.12,218,71.0,3,"Action, Adventure, RPG","PC, Apple Macintosh, Linux","Steam, GOG",Game
+20760,FINAL FANTASY XIII,2009-12-17,3.4,476,77.0,7,RPG,"PC, PlayStation, Xbox","Xbox Store, Google Play, Xbox 360 Store, Steam",Game
+18184,Company of Heroes: Opposing Fronts,2007-09-24,3.35,164,87.0,1,"Action, Strategy",PC,Steam,Game
+10031,Battlerite,2016-09-20,3.24,370,,3,Action,PC,Steam,Game
+4581,Crysis,2007-11-12,4.04,594,91.0,3,"Action, Shooter","PC, PlayStation, Xbox","Xbox 360 Store, GOG, Steam, PlayStation Store",Game
+9904,Age of Empires II HD,2013-04-09,4.26,442,68.0,5,Strategy,PC,Steam,Game
+13469,"Warhammer 40,000: Dawn of War - Game of the Year Edition",2007-08-07,3.97,235,86.0,3,Strategy,PC,Steam,Game
+9966,Dead by Daylight,2016-06-14,3.46,473,72.0,7,Action,"PC, PlayStation, Xbox, Nintendo","App Store, Google Play, Nintendo Store, PlayStation Store, Xbox Store, Steam",Game
+4331,Sonic Generations,2011-06-23,3.9,321,77.0,2,"Action, Arcade, Family, Platformer","PC, PlayStation, Xbox, Nintendo","Xbox Store, Steam, Xbox 360 Store, Nintendo Store, PlayStation Store",Game
+11567,The Red Solstice,2015-07-09,2.34,129,74.0,3,"Action, RPG, Strategy, Indie",PC,Steam,Game
+10327,SpaceChem,2011-01-01,3.06,171,84.0,2,"Strategy, Simulation, Indie, Puzzle","PC, Android, Apple Macintosh, Linux","Google Play, itch.io, Steam, GOG",Game
+58753,Forza Horizon 4,2018-10-02,4.34,787,90.0,0,"Racing, Massively Multiplayer","PC, Xbox",Xbox Store,Game
+3748,SteamWorld Dig,2013-08-08,3.77,406,76.0,4,"Action, Adventure, Indie, Puzzle, Platformer","PC, PlayStation, Xbox, Apple Macintosh, Linux, Nintendo","Xbox Store, Nintendo Store, PlayStation Store, GOG, Steam",Game
+51610,Dark Souls: Remastered,2018-05-23,4.4,695,84.0,9,Action,"PC, PlayStation, Xbox, Nintendo","Steam, Xbox Store, PlayStation Store, Nintendo Store",Game
+41,Little Nightmares,2017-04-27,4.11,537,81.0,4,"Action, Platformer","PC, PlayStation, Xbox, Nintendo","Xbox Store, GOG, Steam, PlayStation Store",Game
+3772,STRIDER,2012-02-16,3.4,237,78.0,5,"Action, Adventure, Arcade","PC, PlayStation, Xbox, Nintendo","Xbox Store, Steam, Xbox 360 Store, Nintendo Store, PlayStation Store",Game
+3268,The Vanishing of Ethan Carter,2014-09-25,3.79,439,82.0,4,"Action, Adventure, Indie","PC, PlayStation, Xbox, Nintendo","Nintendo Store, PlayStation Store, Xbox Store, GOG, Steam",Game
+4012,Resident Evil Revelations,2012-02-07,3.71,368,77.0,8,"Action, Adventure","PC, PlayStation, Xbox, Nintendo","Steam, Xbox 360 Store, Nintendo Store, Xbox Store, PlayStation Store",Game
+2778,Surgeon Simulator,2013-04-18,3.46,353,71.0,3,"Action, Simulation, Educational, Indie","PC, iOS, Android, Apple Macintosh, Linux, Nintendo","Steam, GOG, Google Play, Nintendo Store, App Store",Game
+3450,Saints Row: Gat Out of Hell,2015-01-20,3.07,439,66.0,6,"Action, Adventure","PC, PlayStation, Xbox, Linux","PlayStation Store, Xbox 360 Store, GOG, Steam, Xbox Store",Game
+204,Clicker Heroes,2015-05-13,2.65,371,,9,"Adventure, RPG, Strategy, Simulation, Casual, Indie","PC, PlayStation, Xbox, iOS, Android, Apple Macintosh","App Store, Google Play, Xbox Store, Steam, PlayStation Store",Game
+2412,Dungeons 2,2015-04-23,2.83,178,70.0,4,"RPG, Strategy, Simulation","PC, PlayStation, iOS, Apple Macintosh, Linux","App Store, GOG, Steam, PlayStation Store",Game
+4358,Assassin's Creed Revelations,2011-11-15,3.92,728,80.0,14,"Action, Adventure","PC, PlayStation, Xbox","Xbox 360 Store, Xbox Store, Steam, PlayStation Store",Game
+4388,Battlefield: Bad Company 2,2010-03-02,4.16,510,87.0,7,"Action, Shooter","PC, PlayStation, Xbox","Xbox Store, Xbox 360 Store, Steam, PlayStation Store",Game
+20569,X-COM: UFO Defense,1993-12-30,3.65,184,,1,Strategy,"PC, PlayStation, Commodore / Amiga","GOG, Steam",Game
+2239,Furi,2016-07-04,3.84,465,76.0,4,"Action, Arcade","PC, PlayStation, Xbox, Nintendo","PlayStation Store, Nintendo Store, GOG, Steam, Xbox Store",Game
+45970,The LEGO NINJAGO Movie Video Game,2017-09-22,3.26,66,70.0,2,"Action, Adventure","PC, PlayStation, Xbox, Nintendo","Xbox Store, Nintendo Store, PlayStation Store, Steam",Game
+4602,Bulletstorm,2011-02-22,4.08,540,83.0,4,"Action, Shooter","PC, PlayStation, Xbox","PlayStation Store, Xbox 360 Store",Game
+58777,DOOM Eternal,2020-03-20,4.4,309,88.0,15,"Action, Shooter","PC, PlayStation, Xbox, Nintendo","Xbox Store, PlayStation Store, Steam",Game
+22859,Deus Ex 2: Invisible War,2003-12-01,3.13,194,80.0,1,"Action, RPG","PC, Xbox","Steam, GOG",Game
+28261,Serious Sam HD:  The First Encounter,2009-11-24,3.96,326,68.0,4,"Action, Shooter, Indie","PC, Xbox","Xbox 360 Store, Steam",Game
+15642,The Elder Scrolls IV: Oblivion Game of the Year Edition,2009-06-16,4.26,372,94.0,4,RPG,"PC, PlayStation, Xbox","Steam, GOG",Game
+398423,Gothic Playable Teaser,2019-12-14,2.88,99,,1,RPG,PC,Steam,Game
+15426,Black Mesa,2020-03-06,4.32,415,86.0,6,"Action, Shooter, Indie","PC, Linux",Steam,Game
+1322,Dead Rising 2,2010-08-31,3.47,364,78.0,4,Action,"PC, PlayStation, Xbox","Xbox 360 Store, Steam, Xbox Store, PlayStation Store",Game
+3501,LittleBigPlanet 3,2014-11-18,3.5,500,,3,"Adventure, Arcade",PlayStation,PlayStation Store,Game
+13820,The Elder Scrolls III: Morrowind,2002-05-02,4.36,570,89.0,2,RPG,"PC, Xbox","Xbox Store, Xbox 360 Store, GOG, Steam",Game
+715,Steep,2016-12-02,3.42,587,72.0,6,"Action, Simulation, Sports","PC, PlayStation, Xbox","Epic Games, Steam, Xbox Store, PlayStation Store",Game
+11147,ARK: Survival Of The Fittest,2016-03-15,2.63,230,,1,"Action, RPG, Strategy, Massively Multiplayer, Indie","PC, iOS, Android, Apple Macintosh, Linux","Google Play, App Store, Steam",Game
+382,Sniper Elite 4,2017-02-13,3.51,408,78.0,6,"Action, Shooter, Adventure","PC, PlayStation, Xbox","Steam, Xbox Store, PlayStation Store",Game
+21736,Unreal Gold,2000-01-20,3.47,241,,1,"Action, Shooter",PC,"Steam, GOG",Game
+14072,Tropico 3,2009-10-20,3.3,177,79.0,1,"Strategy, Simulation","PC, Xbox","Xbox 360 Store, Steam",Game
+11970,STAR WARS Jedi Knight - Jedi Academy,2003-09-16,4.31,376,81.0,2,"Action, Shooter","PC, PlayStation, Xbox, Apple Macintosh, Nintendo","PlayStation Store, App Store, GOG, Steam, Xbox 360 Store",Game
+137,Mass Effect: Andromeda,2017-03-21,3.24,700,73.0,23,"Action, RPG","PC, PlayStation, Xbox","Steam, Xbox Store, PlayStation Store",Game
+5298,Tomb Raider: Legend,2006-04-07,3.85,302,82.0,1,"Action, Adventure","PC, PlayStation, Xbox, Nintendo","Xbox 360 Store, Steam, PlayStation Store",Game
+29153,Max Payne 2: The Fall of Max Payne,2003-10-14,4.41,806,80.0,4,"Action, Shooter","PC, PlayStation, Xbox","Steam, Xbox 360 Store",Game
+9853,H1Z1: King of the Kill,2016-02-17,2.37,227,,3,"Action, Adventure, Massively Multiplayer",PC,Steam,Game
+7317,Scribblenauts Unlimited,2012-11-13,3.59,286,75.0,4,"Adventure, Strategy, Casual, Puzzle","PC, iOS, Android, Nintendo","App Store, Google Play, Nintendo Store, Steam",Game
+10040,Stellaris,2016-05-08,4.23,390,78.0,12,"Strategy, Simulation","PC, Apple Macintosh, Linux","GOG, Steam",Game
+22571,Black Desert Online,2014-12-01,3.23,205,73.0,4,"Action, Adventure, RPG, Strategy, Simulation, Massively Multiplayer","PC, PlayStation, Xbox","PlayStation Store, Steam, Xbox Store",Game
+19685,Just Cause,2006-09-26,3.32,235,75.0,1,"Action, Shooter","PC, PlayStation, Xbox","Xbox 360 Store, Steam",Game
+3468,Loadout,2014-01-10,2.54,296,72.0,3,"Action, Indie","PC, PlayStation",Steam,Game
+50778,A Way Out,2018-03-23,4.09,714,78.0,6,"Action, Adventure","PC, PlayStation, Xbox","Xbox Store, PlayStation Store",Game
+3601,inFAMOUS First Light,2014-08-26,3.74,512,73.0,1,Action,PlayStation,PlayStation Store,Game
+2574,Enter the Gungeon,2016-04-04,4.18,544,84.0,7,"Action, Shooter, Adventure, Indie","PC, PlayStation, Xbox, Linux, Nintendo","PlayStation Store, Epic Games, Nintendo Store, GOG, Xbox Store, Steam",Game
+4361,Rayman Origins,2011-11-15,4.12,494,86.0,3,"Action, Arcade, Family, Platformer","PC, PlayStation, Xbox, iOS, Apple Macintosh, Nintendo","Xbox Store, App Store, Xbox 360 Store, Nintendo Store, Steam, GOG, PlayStation Store",Game
+4111,Lord of the Rings: War in the North,2011-11-01,3.24,247,66.0,3,"Action, RPG","PC, PlayStation, Xbox","Xbox 360 Store, Steam",Game
+2913,The Banner Saga,2014-01-14,4.09,432,81.0,5,"RPG, Strategy, Indie","PC, PlayStation, Xbox, iOS, Android, Apple Macintosh, Linux, Nintendo","GOG, Steam, Nintendo Store, PlayStation Store, Xbox Store, Google Play, App Store",Game
+10049,Hitman: Codename 47,2000-11-19,3.88,328,73.0,1,"Action, Shooter",PC,"Steam, GOG",Game
+45821,Frostpunk,2018-04-24,4.18,447,85.0,6,"Strategy, Simulation","PC, PlayStation, Xbox, Nintendo","Xbox Store, PlayStation Store, Steam, GOG",Game
+2556,Risk of Rain,2013-11-07,3.91,330,77.0,4,"Action, Indie, Platformer","PC, PlayStation, Xbox, Apple Macintosh, Linux, Nintendo","Xbox Store, Nintendo Store, GOG, Steam, PlayStation Store",Game
+20980,The Expendabros,2014-08-05,3.52,246,,1,"Action, Indie, Platformer","PC, Apple Macintosh",Steam,Game
+3358,Tropico 5,2014-05-22,3.63,363,75.0,5,"RPG, Strategy, Simulation","PC, PlayStation, Xbox, Apple Macintosh, Linux","App Store, Xbox 360 Store, GOG, Steam, PlayStation Store",Game
+16787,Bully: Scholarship Edition,2008-03-04,4.08,394,72.0,2,"Action, Adventure","PC, Xbox, iOS, Android, Nintendo","Xbox 360 Store, Steam",Game
+28418,Diablo III: Reaper of Souls,2014-03-25,4.18,649,,20,"Action, RPG","PC, PlayStation, Xbox, Apple Macintosh",Xbox 360 Store,Game
+9494,Arma 2,2009-06-18,3.2,188,77.0,1,"Action, Strategy, Simulation",PC,Steam,Game
+1299,Mount & Blade: Warband,2010-03-30,4.33,404,78.0,9,"Action, RPG, Strategy","PC, PlayStation, Xbox, Android, Apple Macintosh, Linux","Xbox Store, Google Play, GOG, Steam, PlayStation Store",Game
+52939,Final Fantasy VII,1997-01-31,4.44,600,,3,"Adventure, RPG","PC, PlayStation, Xbox, iOS, Android, Nintendo","PlayStation Store, Xbox Store, Nintendo Store, App Store, Google Play, Steam",Game
+19633,Need For Speed: Hot Pursuit,2010-11-16,3.83,427,86.0,3,"Action, Sports, Racing","PC, PlayStation, Xbox, iOS, Android, Nintendo","PlayStation Store, App Store, Google Play, Xbox 360 Store, Steam",Game
+44525,Yakuza Kiwami,2016-01-21,4.03,440,83.0,6,"Action, Adventure, RPG, Fighting","PC, PlayStation, Xbox","Xbox Store, Steam, PlayStation Store",Game
+18185,Company of Heroes: Tales of Valor,2009-04-07,3.32,140,70.0,1,Strategy,PC,Steam,Game
+2889,Oddworld: New 'n' Tasty,2014-07-22,3.55,272,87.0,4,"Action, Adventure, Indie, Platformer","PC, PlayStation, Xbox, iOS, Android, Apple Macintosh, Linux, Nintendo","Google Play, App Store, Nintendo Store, GOG, Steam, Xbox Store, PlayStation Store",Game
+327999,Dota Underlords,2020-02-25,3.26,396,,3,"Strategy, Board Games, Casual","PC, iOS, Android, Apple Macintosh, Linux","App Store, Steam, Google Play",Game
