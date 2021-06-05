@@ -9,5 +9,6 @@ This project focused on three factors: the gathering, storing, and preliminary v
 * For movies, html scraping was done by using the Beautiful Soup library in Python. 5 pages of html data were scraped from the website with 50 entries each, for a total of 250 records for movie data.
 * Video game data was collected using an API to gather the data from rawg-video-games-database. 25 API calls were made to the website with 20 records in each call, for a total of 500 records.
 
-## Workborks
-Here are a collection of workbooks that showcase the work that was done during this project.
+## Data
+* Here is the [raw data](https://github.com/tripleee19/tripleee19.github.io/tree/main/data/media_comparison) used in the project.
+* Here are the [workborks and data files](https://github.com/tripleee19/tripleee19.github.io/tree/main/materials/media_comparison) I created to complete the project.
