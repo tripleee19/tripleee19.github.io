@@ -31,3 +31,15 @@ A collection of presentations geared for different auidences and centered around
 ![Image of Crime](../small-crime-photo.jpg)
 
 This project showcases exploratory data analysis skills and observations looking at variables pertaining to [crime rates in Russia.](https://tripleee19.github.io/projects/RussianCrime.html)
+
+#### Detecting Churn in Bank Accounts
+![Bank Image](../images/bank.jpg)
+
+#### Fish Image Classification
+![Fish image](../images/fish.jpg)
+
+#### Project Framwork Poster
+![Framework Image](../images/framework.jpg)
+
+#### Data Scraping and Prep
+![Collection Image](../images/data_collection.jpg)
