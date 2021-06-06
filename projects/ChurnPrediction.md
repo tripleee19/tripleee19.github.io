@@ -20,7 +20,7 @@ Initially, it was determined that there were no missing records in the data set,
 
 Plots were generated for each of the variables to examine the distribution of the values for numeric variables and the counts for the categorical variables. Customer age was approximately normally distributed, months on book was highly leptokurtic, and most other numeric variables had high positive skew. Looking at the correlation between the Attrition_Flag variable and the other variables, there were five variables that had a correlation that was greater than .2, pictured in Figure 1.
 
-Picture Here
+![Correlations](../images/Correlations.JPG)
 
 ## Data Preparation
 The first step to preparing all the variables for modeling was to encode all binary and categorical variables. With the categorical variables, it was decided to use one hot encoding due to the limited number of levels of the variables. After all the encoding, the number of features was 36, which was not of concern due to the number of observations within the dataset and that feature reduction had not taken place yet. 
@@ -38,7 +38,7 @@ The models that were created for this problem were Logistic Regression, Naïve B
 ## Results
 While both accuracy and recall were scored using all models, the nature of wanting to reach as many people who may churn as possible, recall was deemed the more valuable of the two scores. The scores for all models can be seen in Figure 2.
 
-Picture Here
+![Results](../images/Results.JPG)
 
 For prioritizing recall, Support Vector Machine and Logistic Regression models performed the best, with nearly identical scores. The random forest model had the highest accuracy by far, with the Naïve Bayes trailing behind by a few percent.
 
