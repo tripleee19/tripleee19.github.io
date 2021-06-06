@@ -35,6 +35,6 @@ The model was then run for 31 epochs, due to the loss value not improving after 
 The low accuracy of the model indicates that it was not suited to any real-world application at the time. However, the project did complete its second goal of displaying how a convolutional neural network can be used to approach an image classification problem. The spikes in validation accuracy of the training graph demonstrate an overfit of the model to the training data, despite the steps taken to counter it. Due to this, it is most likely that the overfit is due to the small sample size of the images. A promising solution to this would be to increase the amount of augmented data that is present within the model. This can be done by save dozens of edits made per image to a directory and then importing all the edits along with the original images and then proceeding with the project as already laid out in this paper.
 
 ## References
-Jain, T. (2019, August 29). Basics of Machine Learning Image Classification Techniques. Retrieved from https://iq.opengenus.org/basics-of-machine-learning-image-classification-techniques/
-Patil, P. (2018, May 23). What is Exploratory Data Analysis? Retrieved from https://towardsdatascience.com/exploratory-data-analysis-8fc1cb20fd15
-Romih, T. (2016). Humans Are Visual Creatures. Retrieved from https://www.seyens.com/humans-are-visual-creatures/
+* Jain, T. (2019, August 29). Basics of Machine Learning Image Classification Techniques. Retrieved from https://iq.opengenus.org/basics-of-machine-learning-image-classification-techniques/
+* Patil, P. (2018, May 23). What is Exploratory Data Analysis? Retrieved from https://towardsdatascience.com/exploratory-data-analysis-8fc1cb20fd15
+* Romih, T. (2016). Humans Are Visual Creatures. Retrieved from https://www.seyens.com/humans-are-visual-creatures/
