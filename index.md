@@ -35,11 +35,19 @@ This project showcases exploratory data analysis skills and observations looking
 #### Detecting Churn in Bank Accounts
 ![Bank Image](../images/bank.jpg)
 
+Creation of a predictive model to [detect customer accounts that are likely to leave](https://tripleee19.github.io/projects/ChurnPrediction.html) the services of a bank.
+
 #### Fish Image Classification
 ![Fish image](../images/fish.jpg)
+
+The development of a [convolutional neural network](https://tripleee19.github.io/projects/FishImageClassification.html) to predict the species of a fish with the use of data augmentation.
 
 #### Project Framwork Poster
 ![Framework Image](../images/framework.jpg)
 
+An introductory project that focuses on developing proper literature review and [project development](https://tripleee19.github.io/projects/FraudDetectionOutline.html) practices, as well as completing a project in a collaborative environment.
+
 #### Data Scraping and Prep
 ![Collection Image](../images/data_collection.jpg)
+
+Collecting data from multiple sources, [including via API calls and web scraping](https://tripleee19.github.io/projects/DataPrep.html), to bring them together and gather the data in a useful data format.
