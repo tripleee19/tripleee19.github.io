@@ -9,3 +9,9 @@ My name is Evan Edmunds and I am looking to start a career in the field of Data 
 ## Contact Info
 * Email: evanedmunds@gmail.com
 * Github: https://github.com/tripleee19
+
+## Published Studies
+Here are some studies I assisted with during my time at Texas Children's Hospital.
+* [Younger Age at Operation Is Associated With Reinterventions After the Warden Procedure](https://pubmed.ncbi.nlm.nih.gov/32712100/)
+* [Midterm outcomes of pulmonary artery sling repair with and without tracheoplasty](https://pubmed.ncbi.nlm.nih.gov/33046146/)
+* [Total anomalous pulmonary venous connection: Influence of heterotaxy and venous obstruction on outcomes](https://pubmed.ncbi.nlm.nih.gov/33966882/)
